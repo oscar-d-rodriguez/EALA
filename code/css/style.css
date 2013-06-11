@@ -305,7 +305,7 @@ ul#menu-main > li:nth-child(6) > a:hover {
 ---------------------------------------------------------------------------------------------------------- */
 #headerwrap {
 	width: 100%;
-	background: url(../img/Monterrey.jpg) #fff no-repeat center center fixed;
+	background: url(../img/stages/2.jpg) #fff no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -322,7 +322,7 @@ ul#menu-main > li:nth-child(6) > a:hover {
 
 #headerwrap.argentina
     {
-    background: url(../img/Argentina.jpg) #fff no-repeat center center fixed;
+    background: url(../img/stages/1.jpg) #fff no-repeat center center fixed;
     }
 
 #headerwrap.casa-blanca
@@ -344,6 +344,7 @@ ul#menu-main > li:nth-child(6) > a:hover {
 	background-color:#1b2449;
 	color: #fff;
 	line-height: 83px;
+	
 }
 #headerwrap h2 {
 	color: #FFFFFF;
@@ -353,9 +354,7 @@ ul#menu-main > li:nth-child(6) > a:hover {
 	margin: 0.5em 0;
 	text-shadow: 1px 1px 1px #333333;
 }
-#headerwrap h1 span {
-	color:#f0bf00;
-}
+
 #headerwrap input[type=text] {
 	background: rgba(227, 231, 228, 1);
 	font-family: 'SegoeUIL';
@@ -432,7 +431,7 @@ section.single-page h1 {
 	}
 #feature article {
 	text-align: center;
-	margin-top: 120px;
+	margin-top: 90px;
 	max-width: 1170px;
 }
 #feature-headline {
@@ -1409,7 +1408,7 @@ footer p {
 
  .nav > li > a > img
     {
-    max-width:100%;
+    max-width:60%;
     }
 
 .nav > li > a:hover, .nav > li > a:focus{
