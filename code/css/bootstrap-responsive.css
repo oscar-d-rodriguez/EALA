@@ -978,6 +978,12 @@ line-height: 1.2em;
         background:url(../img/Monterrey-mobile.jpg) #fff center -80px ;
 		min-height:300px !important
     }	
+
+#headerwrap.bratislava
+    {
+    background: url(../img/Bratislava-mobile.jpg) #fff center -140px ;
+    }
+
 #headerwrap h1{
 	margin-top:100px !important
 	}	
