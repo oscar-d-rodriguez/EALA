@@ -97,7 +97,10 @@ function slideChange(args) {
   $('.sliderContainer .pager-slider .item:eq(' + (args.currentSlideNumber - 1) + ')').addClass('selected');
 }
 
-
+$(".rslides").responsiveSlides({
+    speed: 500, 
+    timeout: 4000,  
+});
 
    
 window.log=function(){log.history=log.history||[];log.history.push(arguments);if(this.console){console.log(Array.prototype.slice.call(arguments))}};
