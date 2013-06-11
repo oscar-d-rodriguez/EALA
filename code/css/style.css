@@ -310,12 +310,26 @@ ul#menu-main > li:nth-child(6) > a:hover {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	;
 	min-height: 600px;
 	margin-top: -60px;
 	padding-top:160px;
 	text-align:center;
 }
+#headerwrap.bratislava
+    {
+    background: url(../img/Bratislava.jpg) #fff no-repeat center center fixed;
+    }
+
+#headerwrap.argentina
+    {
+    background: url(../img/Argentina.jpg) #fff no-repeat center center fixed;
+    }
+
+#headerwrap.casa-blanca
+    {
+    background: url(../img/Casa-blanca.jpg) #fff no-repeat center center fixed;
+    }
+
 #headerwrap h1 {
 	color: #FFFFFF;
 	font-family: 'SegoeUIL';
