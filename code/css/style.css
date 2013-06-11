@@ -920,16 +920,12 @@ section#team .align, section#contact .align {
 #theme-form textarea {
 	padding-top: 1em;
 }
-div.cform-response-output {
-	max-width: 60%;
-	text-align: center;
-	margin-left: 40% !important;
-	margin-top: 0.5em !important;
-	padding: 0.5em !important;
-	border-radius: 4px;
-	-moz-border-radius: 4px;
-	-webkit-border-radius: 4px;
-}
+.cform-response-output{
+             max-width: 100%;
+            padding: 1em 0 !important;
+            text-align: left;
+            display: none;
+         }
 .cform-not-valid-tip {
 	color: #888;
 	border: 1px dotted #ad3729 !important;
