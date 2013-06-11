@@ -338,8 +338,12 @@ ul#menu-main > li:nth-child(6) > a:hover {
 	max-width:600px;
 	padding-bottom:13px;
 	padding-top:10px;
+	margin-top:3.5em;
+}
+#headerwrap h1 span{
 	background-color:#1b2449;
-	margin-top:3.5em
+	color: #fff;
+	line-height: 83px;
 }
 #headerwrap h2 {
 	color: #FFFFFF;
