@@ -97,6 +97,7 @@ function slideChange(args) {
   $('.sliderContainer .pager-slider .item:eq(' + (args.currentSlideNumber - 1) + ')').addClass('selected');
 }
 
+
 $(".rslides").responsiveSlides({
     speed: 500, 
     timeout: 4000,  
