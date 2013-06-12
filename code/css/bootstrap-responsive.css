@@ -729,10 +729,6 @@
 }
 
  @media (max-width: 770px) {
-.iosSlider 
-{
-	height:900px !important;
-	} 
 		 
 section#portfolio .bussiness h2{
 	margin-top:1em
@@ -825,6 +821,7 @@ section#contact{
 }
 }
 
+/*
 @media (max-width: 700px){
 .iosSlider 
 	{
@@ -887,7 +884,6 @@ section#contact{
 	
 }
 
-/*
 @media (max-width: 445px){
 .iosSlider 
 	{
@@ -1064,10 +1060,7 @@ margin-right: 10%;
 #feature article p, #feature article ul{
 	
 	}	 
-.iosSlider 
-{
-height:531px;
-	}
+s
 #services .span4{
 	min-height:auto
 	}	
@@ -1227,20 +1220,12 @@ section#portfolio .span7 .mask2 {
 margin: 0.563em 0 2.500em;
 }
 
-.iosSlider 
-{
-	height:524px;
-	}
-	
 	
 
 }
 
 
 @media (max-width: 768px) and (max-height: 1024px) {
- 	.iosSlider {
-		height: 1025px;
-	}
 	section#services .align {
 	padding-top: 30px;
 	}
