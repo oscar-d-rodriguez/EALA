@@ -418,6 +418,12 @@
 }
 
  @media (min-width: 768px) and (max-width: 979px) {
+.bratislava #services .span4{
+	min-height: 400px
+	}
+.casa #services .span4{
+	min-height: 443px
+	}
 
  .row {
  margin-left: -20px;

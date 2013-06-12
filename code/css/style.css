@@ -304,6 +304,8 @@ ul#menu-main > li:nth-child(6) > a:hover {
 /* ---------------------------------------------------------------------------------------------------------- 
 05 Single-Page Sections ------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------- */
+.bratislava #services .span4{
+	min-height: auto }
 #headerwrap {
 	width: 100%;
 	background: url(../img/stages/2.jpg) #fff no-repeat center center fixed;
@@ -1462,6 +1464,7 @@ footer p {
 }
 	 
 /* tab styles for small screen */
+
 @media (max-width: 770px) {
 
     .tabbable.responsive .nav-tabs {
