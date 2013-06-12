@@ -119,6 +119,7 @@ ul, ol {
 	font-size: 1em; /* 16px */
 	line-height: 1.5; /* 24px */
 	margin: 0 0 1.5em 0;
+	list-style: none;
 }
 body, input, textarea {
 }
@@ -434,6 +435,7 @@ section.single-page h1 {
 	margin-top: 90px;
 	max-width: 1170px;
 }
+
 #feature-headline {
 	font-family: 'SegoeUIL';
 	text-transform: uppercase;
@@ -447,7 +449,7 @@ section.single-page h1 {
 	font-family: 'SegoeUIL';
 	text-transform: lowercase;
 }
-#feature article p {
+#feature article p, #feature article ul {
 	font-family: 'SegoeUIL';
 	font-size:1.2em;
 	margin-bottom: 0;
@@ -490,7 +492,7 @@ section#portfolio .bussiness blockquote {
 section#portfolio .solution blockquote {
 border-left: 5px solid #CF0072;
 }
-section#portfolio .bussiness blockquote p, section#portfolio .solution p {
+section#portfolio .bussiness blockquote p, section#portfolio .solution p, section#portfolio .bussiness blockquote ul, section#portfolio .solution ul {
 	font-size: 1.063em;
 	margin: 2.500em 0 0;
 	line-height: 1.5;
@@ -623,12 +625,17 @@ border-top: solid 1px #fff;
 border-bottom: solid 1px #fff;
 color:#fff
 }
-section#services p {
+section#services p, section#services ul {
 margin: 0px;
 padding: 2em;
 font-size: .8em;
 color:#fff
 }
+
+section#services ul {
+	min-height: 120px;
+}
+
 section#services .align {
 text-align: center;
 margin-top: 30px;
@@ -1206,14 +1213,14 @@ footer p {
  display: block;
  text-align:center
 }
- #feature article p {
+ #feature article p,  #feature article ul {
  font-family: 'SegoeUIL';
  font-size: 26px; /* font-size: 26px; */
  margin-bottom: 0;
  line-height: 30px;
  color: #fff;
 }
-}
+
     
     /* Smartphones (portrait and landscape) ----------- */
 	@media only screen  and (min-device-width : 320px)  and (max-device-width : 480px) {
@@ -1250,7 +1257,7 @@ footer p {
  #portfolio .container {
  top: 0 !important;
 }
- #feature article p {
+ #feature article p,  #feature article ul  {
  font-family: 'SegoeUIL';
  font-size: 26px; /* font-size: 26px; */
  margin-bottom: 0;
@@ -1338,7 +1345,7 @@ footer p {
 }
 
 	
- #feature article p {
+ #feature article p,  #feature article ul {
  font-family: 'SegoeUIL';
  font-size: 26px; /* font-size: 26px; */
  margin-bottom: 0;
