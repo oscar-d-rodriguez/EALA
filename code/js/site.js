@@ -77,30 +77,48 @@
 
     })()
 
+    jQuery(document).ready(function ($) {
+        $('.iosSlider').iosSlider({
+            snapToChildren: true,
+            navSlideSelector: '.sliderContainer .pager-slider .item',
+            scrollbar: false,
+            autoSlide: false,
+            autoSlideTimer: 3300,
+            onSlideChange: slideChange,
+            responsiveSlideWidth: true,
+            infiniteSlider: true,
+            startAtSlide: '1'
+        });
 
-  jQuery(document).ready(function($) {
-      $('.iosSlider').iosSlider({
-      snapToChildren: true,
-      navSlideSelector: '.sliderContainer .pager-slider .item',
-      scrollbar: false,
-      autoSlide: false,
-      autoSlideTimer: 3300,
-      onSlideChange: slideChange,
-      responsiveSlideWidth: true,
-      infiniteSlider: true,
-      startAtSlide: '1'
+        $('.iosSlider').height($('.iosSlider .item:eq(0)')[0].scrollHeight);
+
+        $(window).resize(function () {
+            $('.iosSlider').height($('.iosSlider .item.selected')[0].scrollHeight);
+        });
     });
-  });
 
-function slideChange(args) {
-  $('.sliderContainer .pager-slider .item').removeClass('selected');
-  $('.sliderContainer .pager-slider .item:eq(' + (args.currentSlideNumber - 1) + ')').addClass('selected');
-}
+
+
+    function slideChange(args) {
+        $('.sliderContainer .pager-slider .item').removeClass('selected');
+        $('.sliderContainer .pager-slider .item:eq(' + (args.currentSlideNumber - 1) + ')').addClass('selected');
+
+        $('.iosSlider .item').removeClass('selected');
+        $('.iosSlider .item:eq(' + (args.currentSlideNumber - 1) + ')').addClass('selected');
+
+        $('.iosSlider').height("auto");
+        $('.iosSlider').height($('.iosSlider .item:eq(' + (args.currentSlideNumber - 1) + ')')[0].scrollHeight);
+    }
+
+
 
 $(".rslides").responsiveSlides({
-    speed: 500, 
-    timeout: 4000,  
-});
+
+    speed: 500,
+
+    timeout: 4000,
+
+    });
 
    
 window.log=function(){log.history=log.history||[];log.history.push(arguments);if(this.console){console.log(Array.prototype.slice.call(arguments))}};
