@@ -990,6 +990,14 @@ line-height: 1.2em;
     {
     background: url(../img/Bratislava-mobile.jpg) #fff center -140px ;
     }
+#headerwrap.argentina
+    {
+    background: url(../img/Argentina-mobile.jpg) #fff center -300px ;
+    }
+#headerwrap.casablanca
+    {
+    background: url(../img/Casablanca-mobile.jpg) #fff center -140px ;
+    }
 
 #headerwrap h1{
 	margin-top:100px !important
@@ -1061,7 +1069,7 @@ margin-right: 10%;
 height:531px;
 	}
 #services .span4{
-	min-height:378px
+	min-height:auto
 	}	
 #headerwrap{
 	margin-top:0px

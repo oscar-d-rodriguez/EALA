@@ -44,12 +44,12 @@ body {
 
 }
 ::-moz-selection {
-background:#f0bf00;
+background:#f3bf00;
 color:#333;
 }
 ::selection {
-background:#f0bf00;
-color:#333;
+background:#ff5800;
+color:#fff;
 }
 /*---------- FORMS ----------*/
 
@@ -683,6 +683,9 @@ section#services .span3:hover {
 	box-shadow: 1px 1px 6px #C1BAC1;
 }
 
+#services .span4{
+	min-height:378px
+	}	
 /* Testimonials */
 
 section#testimonials {
@@ -925,7 +928,7 @@ section#team .align, section#contact .align {
 	}
 #theme-form input[type=submit]:hover, 
 #theme-form input[type=submit]:active {
-	background: #43413e !important;
+	background: #C64500 !important;
 }
 #theme-form textarea {
 	padding-top: 1em;
@@ -1410,7 +1413,8 @@ footer p {
  .nav-tabs > li > a{
 	border-radius:0px;
 	border:none;
-	margin-right:0px
+	margin-right:0px;
+	text-align: center;
 	}
 
  .nav > li > a > img
