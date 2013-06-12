@@ -40,7 +40,7 @@ body {
 	background:#fff;
 	color: #312A1E;
 	font-size: 100%;
-	font-family:'SegoeUIL', 'Segoe UI', Arial, Verdana, Geneva;
+	font-family:'SegoeUIL', Arial, Verdana, Geneva;
 
 }
 ::-moz-selection {
@@ -63,8 +63,7 @@ input[type=text], input[type=submit], textarea {
 	-webkit-box-sizing: border-box;
 }
 input, button, select, textarea {
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 }
 /* ---------------------------------------------------------------------------------------------------------- 
 02 Typography -----------------------------------------------------------------------------------------------
@@ -133,8 +132,7 @@ a:hover, a:active {
 }
 h1, h2, h3, h4, h5, h6 {
 	font-weight: normal; /* reset default browser weight for our webfonts */
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 }
 h1 {
 	font-size: 1.5em; /* 24px */
@@ -168,8 +166,7 @@ h5 {
 }
 strong {
 	font-weight:normal;
-	font-family: 'SegoeUIB', 'Segoe UI';
- 	font-weight: bold;
+	font-family: 'SegoeUIB';
 }
 small {
 	font-size: 0.75em; /* 12px */
@@ -179,13 +176,11 @@ small {
 }
 em {
 	font-style: normal;
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 }
 .muted {
 color: #333;
-font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+font-family: 'SegoeUIL';
 display: block;
 font-size: 80%;
 }
@@ -196,8 +191,7 @@ font-size: 80%;
 .more-link {
 	font-size: .875em; /* 14px */
 	margin-top: 1.5em;
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 }
 .more-link:link, .more-link:visited {
 	color: #f0bf00;
@@ -225,8 +219,7 @@ font-size: 80%;
 }
 .medium {
 	font-weight: normal;
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 }
 /* ---------------------------------------------------------------------------------------------------------- 
 04 Navbar ------------------------------------------------------------
@@ -247,8 +240,7 @@ font-size: 80%;
 	font-size: 1.75em;
 	margin-left: 0;
 	font-weight: normal;
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 }
 .navbar .brand a:hover {
 	text-decoration: none;
@@ -275,8 +267,7 @@ font-size: 80%;
 	margin-top: 1.125em;
 }
 ul#menu-main > li > a {
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 font-weight: normal;
 font-size: 1em;
 color: #737678;
@@ -286,15 +277,11 @@ outline: 0;
 ul#menu-main > li > a:current{
 	border:solid 1px red
 	}
-ul#menu-main > li:first-child > a{
-		font-weight: bold;
-
-}
 ul#menu-main > li > a:hover {
 	border-bottom:solid 2px #ccc	
 	}
 ul#menu-main > li:nth-child(1) > a:hover {
-	border-bottom-color:#009FDA;
+	border-bottom-color:#009FDA
 	}
 ul#menu-main > li:nth-child(2) > a:hover {
 	border-bottom-color:#CF0072
@@ -334,34 +321,21 @@ ul#menu-main > li:nth-child(6) > a:hover {
 #headerwrap.bratislava
     {
     background: url(../img/Bratislava.jpg) #fff no-repeat center center fixed;
-    -webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
     }
 
 #headerwrap.argentina
     {
     background: url(../img/stages/1.jpg) #fff no-repeat center center fixed;
-    -webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
     }
 
 #headerwrap.casa-blanca
     {
     background: url(../img/Casa-blanca.jpg) #fff no-repeat center center fixed;
-    -webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
     }
 
 #headerwrap h1 {
 	color: #FFFFFF;
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 	font-size: 3.5em;
 	margin: 0 auto;
 	max-width:600px;
@@ -377,8 +351,7 @@ ul#menu-main > li:nth-child(6) > a:hover {
 }
 #headerwrap h2 {
 	color: #FFFFFF;
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 	font-size: 2em;
 	font-weight: normal;
 	margin: 0.5em 0;
@@ -387,8 +360,7 @@ ul#menu-main > li:nth-child(6) > a:hover {
 
 #headerwrap input[type=text] {
 	background: rgba(227, 231, 228, 1);
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 	font-size: 1.3125em;
 	border: 0;
 	text-align: center;
@@ -407,8 +379,7 @@ ul#menu-main > li:nth-child(6) > a:hover {
 	width:50%;
 }
 #headerwrap input[type=submit] {
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 	color: #fff;
 	width: 185px;
 	height: 2.9em;
@@ -448,8 +419,7 @@ section.single-page {
 }
 section.single-page h1 {
 	text-align: center;
-	font-family:  'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family:  'SegoeUIL';
 	margin-bottom: 2em; /* 72px */
 	font-size: 2.25em; /* 36px */
 }
@@ -469,8 +439,7 @@ section.single-page h1 {
 }
 
 #feature-headline {
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 	text-transform: uppercase;
 	color: rgba(228, 229, 229, 1);
 	margin-bottom: 3%; /* 39px */
@@ -479,13 +448,11 @@ section.single-page h1 {
 	background-size: 100% auto;
 }
 #feature-headline span {
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 	text-transform: lowercase;
 }
 #feature article p, #feature article ul {
-	font-family: 'SegoeUIL', 'Segoe UI';
-	 font-weight: light;
+	font-family: 'SegoeUIL';
 	font-size:1.2em;
 	margin-bottom: 0;
 	line-height: 1.35;
@@ -511,8 +478,7 @@ section#portfolio hgroup h2 {
 }
 section#portfolio hgroup h3 {
 	margin-top: .35em;
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 	font-size: 1.125em;
 }
 section#portfolio .entry-content {
@@ -745,7 +711,7 @@ blockquote.mega p {
 	font-size: 45px;
 	line-height: 50px;
 	text-align: left;
-	font-family: 'SegoeUIL', 'Segoe UI';
+	font-family: 'SegoeUIL';
 	font-weight:bold;
 	color:#312A1E;
 }
@@ -778,8 +744,7 @@ article .inside {
 .post-date {
 	color: #A5A5A2;
 	float: right;
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 	font-size: 14px;
 	font-style: normal;
 	line-height: 2;
@@ -801,8 +766,7 @@ article .inside {
 
 .span5 h2 {
     color:#006EB5;
-    font-family:'SegoeUI',cursive, 'Segoe UI';
- 	font-weight: light;
+    font-family:'SegoeUI',cursive
 }
 
 section#contact {
@@ -910,8 +874,7 @@ section#team .align, section#contact .align {
 	text-align:center;
 }
 .job-position {
-	font-family: 'SegoeUIL', 'Segoe UI';
-	 font-weight: light;
+	font-family: 'SegoeUIL';
 	margin-bottom: .46155em;
 }
 
@@ -923,8 +886,7 @@ section#team .align, section#contact .align {
 }
 #theme-form input[type=text], .cform-form textarea {
 
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 	border: 0;
 	text-align: left;
 	vertical-align: middle;
@@ -943,8 +905,7 @@ section#team .align, section#contact .align {
 	height: 3.25em;
 }
 #theme-form input[type=submit] {
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 	color: #fff;
 	width: 185px;
 	height: 60px;
@@ -986,8 +947,7 @@ section#team .align, section#contact .align {
 	width: 100% !important;
 	left: 0 !important;
 	padding: 0.5em !important;
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
@@ -1056,8 +1016,7 @@ footer p {
 	text-shadow: 0 1px 1px rgba(0, 0, 0, .4);
 	background-color: transparent;
 	border: 0;
-	font-family: 'SegoeUIL', 'Segoe UI';
-	font-weight: light;
+	font-family: 'SegoeUIL';
 	opacity: 0.4;
 	border-radius: 0;
 }
@@ -1080,8 +1039,7 @@ footer p {
 }
 #intro-caption {
 	margin-top:150px;
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 	text-align: center;
 	font-size: 80px;
 	line-height: 90px;
@@ -1090,8 +1048,7 @@ footer p {
 	text-shadow: 2px 2px 2px #000;
 }
 #intro-caption span {
-	font-family:'SegoeUIL', 'Segoe UI';
-	 font-weight: light;
+	font-family:'SegoeUIL';
 	font-size: 0.65em;
 }
 #banner.carousel .item {
@@ -1104,8 +1061,7 @@ footer p {
 08 Buttons ------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------- */    
 .btn {
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 	color: #fff;
 	width: 185px;
 	height: 20px;
@@ -1153,8 +1109,7 @@ footer p {
  color: #007ac3;
 }
  #intro-caption {
- font-family: 'SegoeUIL', 'Segoe UI';
- font-weight: light;
+ font-family: 'SegoeUIL';
  text-align: center;
  font-size: 60px;
  line-height: 70px;
@@ -1264,8 +1219,7 @@ footer p {
  text-align:center
 }
  #feature article p,  #feature article ul {
- font-family: 'SegoeUIL', 'Segoe UI';
- font-weight: light;
+ font-family: 'SegoeUIL';
  font-size: 26px; /* font-size: 26px; */
  margin-bottom: 0;
  line-height: 30px;
@@ -1309,8 +1263,7 @@ footer p {
  top: 0 !important;
 }
  #feature article p,  #feature article ul  {
- font-family: 'SegoeUIL', 'Segoe UI';
- font-weight: light;
+ font-family: 'SegoeUIL';
  font-size: 26px; /* font-size: 26px; */
  margin-bottom: 0;
  line-height: 30px;
@@ -1442,8 +1395,7 @@ footer p {
 	
 	}
 #news .tab-content p {
-	margin-bottom:0px;
-	height: 165px;
+	margin-bottom:0px
 	}
 #news ul.nav-tabs{
 	margin-bottom:0px
@@ -1469,7 +1421,7 @@ footer p {
 
  .nav > li > a > img
     {
-    max-width:100%;
+    max-width:60%;
     }
 
 .nav > li > a:hover, .nav > li > a:focus{
