@@ -343,7 +343,7 @@ ul#menu-main > li:nth-child(6) > a:hover {
 #headerwrap h1 span{
 	background-color:#1b2449;
 	color: #fff;
-	line-height: 83px;
+	line-height: 160%;
 	
 }
 #headerwrap h2 {
