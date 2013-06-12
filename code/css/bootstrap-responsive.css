@@ -979,6 +979,8 @@ section#contact{
 #news .tab-content p{
 font-size: .7em;
 line-height: 1.2em;
+display: block;
+height: 160px;
 	}
 #headerwrap
     {
