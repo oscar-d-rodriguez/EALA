@@ -896,6 +896,12 @@ section#contact{
 
  @media (max-width: 480px) {
 
+.eala-logo {
+	background: url(../img/logos/eala-logo-mobile.svg);
+  	background-size: 100px 50px;
+  	width: 100px;
+}
+
 section#portfolio .entry-content {
         margin-bottom:0px;
         padding-bottom:0px;
@@ -939,7 +945,7 @@ footer small{
 	
 	}
 .navbar .brand{
-	width:222px;
+	width:100px;
 	padding-top:5px
 	}
 
