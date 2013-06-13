@@ -454,5 +454,90 @@ window.log=function(){log.history=log.history||[];log.history.push(arguments);if
 
 
 $(document).ready(function() {
-    $(".tabbable.responsive").responsiveTabs(); 
+    $(".tabbable.responsive").responsiveTabs();
+
+    //Google Maps
+
+
+  $('.argentina #map_canvas').gmap3({
+        map:{
+            options:{
+              center:[-33.655781,-59.095459],
+              zoom: 6
+            }
+          },
+          marker:{
+            values:[
+              {address:'Santa Fe 1173, Rosario, Santa Fe, Argentina S2000ATO', data:"<h3>Rosario Building</h3><p>Tel: +(54341) 447 8300</p>"},
+              {address:"Av Córdoba 2057, Capital Federal, Buenos Aires, Argentina C1120AAC", data:"<h3>Córdoba Building</h3> <p>Tel: +(5411) 4705 6000 <br/>Fax: +(5411) 4705 6962</p>"},
+              {address:'Diag. 80 942, La Plata, Buenos Aires, Argentina', data:"<h3>La Plata Building </h3> <p>Tel: +(54221) 426 2000 <br/> Fax: +(54221) 426 2154 | 22000</p>"}
+            ],
+            cluster:{
+                radius:100,
+                // This style will be used for clusters with more than 0 markers
+                  0: {
+                    content: "<div class='cluster'>CLUSTER_COUNT</div>",
+                    width: 53,
+                    height: 52
+                  },
+            },
+            options:{
+              draggable: false,
+              icon: 'img/icons/eala_marker.png'
+            },
+            events:{
+              click: function(marker, event, context){
+                var map = $(this).gmap3("get"),
+                  infowindow = $(this).gmap3({get:{name:"infowindow"}});
+                if (infowindow){
+                  infowindow.open(map, marker);
+                  infowindow.setContent(context.data);
+                } else {
+                  $(this).gmap3({
+                    infowindow:{
+                      anchor:marker, 
+                      options:{content: context.data}
+                    }
+                  });
+                }
+              }
+            }
+          }
+    });
+    $('.monterrey #map_canvas').gmap3({
+        map:{
+            options:{
+              center:[25.701247,-100.379677],
+              zoom: 6
+            }
+          },
+          marker:{
+            values:[
+              {latLng:[25.669876,-100.377609], data:"<h3>Monterrey</h3><em>Oficinas en el parque</em></h3><p>Tel: +(52) 81 8048-0600 </p>"}
+            ],
+           
+            options:{
+              draggable: false,
+              icon: 'img/icons/eala_marker.png'
+            },
+            events:{
+              click: function(marker, event, context){
+                var map = $(this).gmap3("get"),
+                  infowindow = $(this).gmap3({get:{name:"infowindow"}});
+                if (infowindow){
+                  infowindow.open(map, marker);
+                  infowindow.setContent(context.data);
+                } else {
+                  $(this).gmap3({
+                    infowindow:{
+                      anchor:marker, 
+                      options:{content: context.data}
+                    }
+                  });
+                }
+              }
+            }
+          }
+    });
+    
 });
