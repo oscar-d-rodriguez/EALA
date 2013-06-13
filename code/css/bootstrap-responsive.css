@@ -906,6 +906,10 @@ section#contact{
 
 
  @media (max-width: 480px) {
+.bratislava section#portfolio hgroup h2{
+	font-size: 1.7em
+
+}
 
 section#portfolio .entry-content {
         margin-bottom:0px;
@@ -987,7 +991,7 @@ section#contact{
 font-size: .7em;
 line-height: 1.2em;
 display: block;
-height: 160px;
+height: 195px;
 	}
 
 #headerwrap
