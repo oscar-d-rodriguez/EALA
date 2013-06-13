@@ -389,13 +389,29 @@ body {
     -o-background-size: 330%!important;
     background-size: 330%!important;
 }
-}@media screen and (min-width:320px) and (max-width:620px) {
+}@media screen and (min-width:300px) and (max-width:560px) {
     #stage .item {
-    -webkit-background-size: 280%!important;
-    -moz-background-size: 280%!important;
-    -o-background-size: 280%!important;
-    background-size: 280%!important;
-}
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+    #main-menu h2{
+        font-size: 26px;
+    }
+    body #stage .item.s1 {
+        background: url(../img/Argentina-mobile.jpg) no-repeat center center;
+    }
+    body #stage .item.s2 {
+        background: url(../img/Monterrey-mobile.jpg) no-repeat center center;
+    }
+    body #stage .item.s3 {
+        background: url(../img/Bratislava-mobile.jpg) no-repeat center center;
+    }
+    body #stage .item.s4 {
+        background: url(../img/Casablanca-mobile.jpg) no-repeat center center;
+    }
+
 }
 
 
