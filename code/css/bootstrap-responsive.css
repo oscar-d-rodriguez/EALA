@@ -994,7 +994,7 @@ section#contact{
     }
 		 
 #news .tab-content p{
-font-size: .7em;
+font-size: .7em !important;
 line-height: 1.2em;
 display: block;
 height: 195px;
@@ -1084,6 +1084,7 @@ body.argentina #services .span4{
 }
 #news .tab-content p{
 font-size: .8em;
+line-height: 1.1em
 
 	}
 

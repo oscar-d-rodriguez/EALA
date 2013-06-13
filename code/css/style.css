@@ -41,6 +41,7 @@ body {
 	color: #312A1E;
 	font-size: 100%;
 	font-family:'SegoeUIL', 'Segoe UI', Arial, Verdana, Geneva;
+	overflow-x: hidden; 
 
 }
 ::-moz-selection {
@@ -334,11 +335,12 @@ ul#menu-main > li:nth-child(6) > a:hover {
 
 #headerwrap {
 	width: 100%;
-	background: url(../img/stages/2.jpg) #fff no-repeat center center fixed;
+	background: url(../img/Monterrey.jpg) #fff no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	
 	min-height: 600px;
 	margin-top: -60px;
 	padding-top:160px;
@@ -1494,7 +1496,48 @@ footer p {
     border:none
 }
 	  
-/* sample styles for the tab controls on small screens  - start with left control and override for right */
+	 
+/* tab styles for small screen */
+
+@media (max-width: 770px) {
+
+    .tabbable.responsive .nav-tabs {
+        font-size: 16px;
+    }
+    .tabbable.responsive .nav-tabs ul {
+        margin: 0;
+    }
+    .tabbable.responsive .nav-tabs li {
+        /* box-sizing seems like the cleanest way to make sure width includes padding */
+        -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box; 
+            -ms-box-sizing: border-box;
+            -o-box-sizing: border-box;
+                box-sizing: border-box; 
+        display: inline-block; 
+        width: 100%; 
+        height: 90px;
+        padding:0px;
+        overflow: hidden;
+    }
+    .tabbable.responsive .nav-tabs > li > a {
+        border-style: none;
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+    }
+    /* include hover and active styling for links to override bootstrap defaults */
+    .tabbable.responsive .nav-tabs > li > a:hover {
+		border-radius:0px
+    }
+    .tabbable.responsive .nav-tabs > li > a:active,
+    .tabbable.responsive .nav-tabs > .active > a,
+    .tabbable.responsive .nav-tabs > .active > a:hover {
+        border-radius:0px;
+        background-color:#FF5800
+    }
+	
+	/* sample styles for the tab controls on small screens  - start with left control and override for right */
 .tabbable.responsive .nav-tabs > li > a.tab-control,
 .tabbable.responsive .nav-tabs > li > span.tab-control-spacer {
     float: left;
@@ -1523,48 +1566,6 @@ footer p {
     color: transparent;
     background: transparent;
 }
-	 
-/* tab styles for small screen */
-
-@media (max-width: 770px) {
-
-    .tabbable.responsive .nav-tabs {
-        font-size: 16px;
-    }
-    .tabbable.responsive .nav-tabs ul {
-        margin: 0;
-    }
-    .tabbable.responsive .nav-tabs li {
-        /* box-sizing seems like the cleanest way to make sure width includes padding */
-        -webkit-box-sizing: border-box;
-            -moz-box-sizing: border-box; 
-            -ms-box-sizing: border-box;
-            -o-box-sizing: border-box;
-                box-sizing: border-box; 
-        display: inline-block; 
-        width: 100%; 
-        height: 90px;
-        line-height: 44px; 
-        padding:0px;
-        overflow: hidden;
-    }
-    .tabbable.responsive .nav-tabs > li > a {
-        border-style: none;
-        display: inline-block;
-        margin: 0;
-        padding: 0;
-    }
-    /* include hover and active styling for links to override bootstrap defaults */
-    .tabbable.responsive .nav-tabs > li > a:hover {
-		border-radius:0px
-    }
-    .tabbable.responsive .nav-tabs > li > a:active,
-    .tabbable.responsive .nav-tabs > .active > a,
-    .tabbable.responsive .nav-tabs > .active > a:hover {
-        border-radius:0px;
-        background-color:#FF5800
-    }
-	
 
 }
 			
