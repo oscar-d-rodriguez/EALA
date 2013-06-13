@@ -599,35 +599,37 @@
           <div class="span12">
           
             <div class="cform" id="theme-form">
-              <form action="#" method="post" class="cform-form">
-                
+              <form class="cform-form" mail-to="carlos.perez.priego@avanade.com">
+                <div class="response"></div>
                 <div class="row">
                   
                   <div class="span6"> 
-                  	
+                    
                     <span class="your-name">
-                    <input type="text" name="your-name" placeholder="Your Name" class="cform-text" size="40" title="your name">
+                    <input type="text" name="name" id="name" placeholder="Your Name" class="cform-text" size="40" title="your name">
                     </span> 
                     <span class="your-email">
-                    <input type="text" name="your-email" placeholder="Your Email" class="cform-text" size="40" title="your email">
+                    <input type="text" name="email" id="email" placeholder="Your Email" class="cform-text" size="40" title="your email">
                     </span> 
                     <span class="company">
-                    <input type="text" name="company" placeholder="Your Company (Optional)" class="cform-text" size="40" title="company">
+                    <input type="text" name="company" id="company" placeholder="Your Company (Optional)" class="cform-text" size="40" title="company">
                     </span> 
                     <span class="message">
-                    <textarea name="message" placeholder="Message" class="cform-textarea" cols="40" rows="10" title="drop us a line."></textarea>
+                    <textarea name="message" id="message" placeholder="Message" class="cform-textarea" cols="40" rows="10" title="drop us a line."></textarea>
                     </span> 
+                     
                      <span class="submit"><input type="submit" value="Send message" class="cform-submit"></span>
-                  
+                    <div class="cform-response-output"></div>
                   </div>
                     
-                  <!-- <div class="span6" id="google-map"> 
-                  	
-        <iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.ca/maps?f=q&amp;source=s_q&amp;hl=es-419&amp;geocode=+&amp;q=Oficinas+en+el+parque,+Torre+1+Antonio+L.+Rodr%C3%ADguez+1884,+Sin+Nombre+de+Colonia+27,+64000+Monterrey,+Nuevo+Le%C3%B3n,+Mexico&amp;ie=UTF8&amp;hq=Oficinas+en+el+parque,+Torre+1+Antonio+L.+Rodr%C3%ADguez+1884,&amp;hnear=Sin+Nombre+de+Colonia+27,+Monterrey,+Nuevo+Le%C3%B3n,+M%C3%A9xico&amp;t=m&amp;cid=9804369827107738495&amp;ll=25.701247,-100.379677&amp;spn=0.148491,0.219727&amp;z=12&amp;iwloc=A&amp;output=embed"></iframe>
+                  <div class="span6" id="google-map"> 
+                    
+    <!--    <iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.ca/maps?f=q&amp;source=s_q&amp;hl=es-419&amp;geocode=+&amp;q=Oficinas+en+el+parque,+Torre+1+Antonio+L.+Rodr%C3%ADguez+1884,+Sin+Nombre+de+Colonia+27,+64000+Monterrey,+Nuevo+Le%C3%B3n,+Mexico&amp;ie=UTF8&amp;hq=Oficinas+en+el+parque,+Torre+1+Antonio+L.+Rodr%C3%ADguez+1884,&amp;hnear=Sin+Nombre+de+Colonia+27,+Monterrey,+Nuevo+Le%C3%B3n,+M%C3%A9xico&amp;t=m&amp;cid=9804369827107738495&amp;ll=25.701247,-100.379677&amp;spn=0.148491,0.219727&amp;z=12&amp;iwloc=A&amp;output=embed"></iframe> -->
+                    <div id="map_canvas"></div>
              
-                  </div>  -->             
+                  </div>               
                 
-                <div class="cform-response-output"></div>
+                
               </form>
             </div>
           </div>
@@ -663,7 +665,11 @@
 	<script type="text/javascript" src="js/jquery.easing-1.3.js"></script>
   <script type="text/javascript" src="js/jquery.iosslider.min.js"></script>
   <script type="text/javascript" src="js/responsiveslides.min.js"></script>    
-	<script type="text/javascript" src="js/site.js"></script>
+	<script type="text/javascript" src="js/jquery.validate.min.js"></script>    
+  <script type="text/javascript" src="js/site.js"></script>
+  <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+  <script type="text/javascript" src="js/vendor/gmap3.js"></script>
+
       
     </body>
     </html>
