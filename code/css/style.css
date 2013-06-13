@@ -938,8 +938,7 @@ section#team .align, section#contact .align {
 }
 #theme-form input[type=text], .cform-form textarea {
 
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 	border: 0;
 	text-align: left;
 	vertical-align: middle;
@@ -958,8 +957,7 @@ section#team .align, section#contact .align {
 	height: 3.25em;
 }
 #theme-form input[type=submit] {
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 	color: #fff;
 	width: 185px;
 	height: 60px;
@@ -972,7 +970,7 @@ section#team .align, section#contact .align {
 	border: 0;
 	text-transform: none;
 	background: #ff5800 !important;
-	
+	float: right;
 	box-shadow: none;
 	-moz-box-shadow: none;
 	-webkit-box-shadow: none;
@@ -984,14 +982,14 @@ section#team .align, section#contact .align {
 	}
 #theme-form input[type=submit]:hover, 
 #theme-form input[type=submit]:active {
-	background: #C64500 !important;
+	background: #43413e !important;
 }
 #theme-form textarea {
 	padding-top: 1em;
 }
 .cform-response-output{
              max-width: 100%;
-            padding: 1em 0 !important;
+            padding: 10px 0px !important;
             text-align: left;
             display: none;
          }
@@ -1001,14 +999,34 @@ section#team .align, section#contact .align {
 	width: 100% !important;
 	left: 0 !important;
 	padding: 0.5em !important;
-	font-family: 'SegoeUIL', 'Segoe UI';
- 	font-weight: light;
+	font-family: 'SegoeUIL';
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	border-radius: 4px;
 	-moz-border-radius: 4px;
 	-webkit-border-radius: 4px;
+}
+
+.cform-text.error, .cform-textarea.error{
+	border: 2px solid #FF9999 !important;
+}
+
+#theme-form input[type=text].error:focus, .cform-form textarea.error:focus{
+	background-color: #FF9999 !important;
+	color: #8C0000;
+}
+.error:focus::-webkit-input-placeholder { /* WebKit browsers */
+    color: #8C0000;
+}
+.error:focus:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #8C0000;
+}
+.error:focus::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: #8C0000;
+}
+.error:focus:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color: #8C0000;
 }
 /* Featurettes */
 
