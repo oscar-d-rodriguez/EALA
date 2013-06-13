@@ -989,6 +989,7 @@ line-height: 1.2em;
 display: block;
 height: 160px;
 	}
+
 #headerwrap
     {
         background:url(../img/Monterrey-mobile.jpg) #fff center -80px ;
@@ -997,7 +998,7 @@ height: 160px;
 
 #headerwrap.bratislava
     {
-    background: url(../img/Bratislava-mobile.jpg) #fff center -140px ;
+    background-color:red ;
     }
 #headerwrap.argentina
     {
@@ -1065,9 +1066,10 @@ height: 160px;
 }
 
  @media (max-width: 979px) {
-#headerwrap h1, #headerwrap h2 {
-margin-left: 10%;
-margin-right: 10%;
+
+body.argentina #services .span4{
+	height:378px
+
 }
 
 #feature article p, #feature article ul{
