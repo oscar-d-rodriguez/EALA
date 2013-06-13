@@ -317,6 +317,7 @@ ul#menu-main > li:nth-child(6) > a:hover {
 /* ---------------------------------------------------------------------------------------------------------- 
 05 Single-Page Sections ------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------- */
+
 .eala-logo {
 	display: block;
   text-indent: -9999px;
@@ -326,6 +327,8 @@ ul#menu-main > li:nth-child(6) > a:hover {
   background-size: 200px 50px;
   background-repeat: no-repeat;
 }
+
+.bratislava #services .span4{
 
 #headerwrap {
 	width: 100%;
@@ -1520,6 +1523,7 @@ footer p {
 }
 	 
 /* tab styles for small screen */
+
 @media (max-width: 770px) {
 
     .tabbable.responsive .nav-tabs {
