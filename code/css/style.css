@@ -1035,7 +1035,7 @@ footer small{
 	}
 .logo-avanade{
 	float:right;
-	margin-top:-10px
+	margin: 17px 0;
 	}	
 footer p {
 
@@ -1568,3 +1568,18 @@ footer p {
 
 }
 			
+#map_canvas{
+	height:450px;
+	width:100%;
+	background: #fff;
+}
+#map_canvas .cluster{
+	background: url('../img/icons/eala_marker.png') no-repeat;
+	font-weight: bold;
+	font-size: 15px;
+	color: #333;
+	font-family: sans-serif;
+	padding: 9px 14px;
+	width: 11px;
+	height: 25px;
+}
