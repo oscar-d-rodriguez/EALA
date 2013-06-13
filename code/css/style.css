@@ -335,11 +335,12 @@ ul#menu-main > li:nth-child(6) > a:hover {
 
 #headerwrap {
 	width: 100%;
-	background: url(../img/stages/2.jpg) #fff no-repeat center center fixed;
+	background: url(../img/Monterrey.jpg) #fff no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	
 	min-height: 600px;
 	margin-top: -60px;
 	padding-top:160px;
@@ -365,7 +366,7 @@ ul#menu-main > li:nth-child(6) > a:hover {
 
 #headerwrap.casablanca
     {
-    background: url(../img/Casablanca.jpg) #fff no-repeat center 70% fixed;
+    background: url(../img/Casablanca.jpg) #fff no-repeat center 20% fixed;
     -webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
