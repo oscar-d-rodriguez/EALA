@@ -328,7 +328,9 @@ ul#menu-main > li:nth-child(6) > a:hover {
   background-repeat: no-repeat;
 }
 
-.bratislava #services .span4{
+.bratislava #services .span4
+{
+}
 
 #headerwrap {
 	width: 100%;
