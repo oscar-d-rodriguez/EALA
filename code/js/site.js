@@ -89,11 +89,12 @@
             infiniteSlider: true,
             startAtSlide: '1'
         });
-
+        $('.iosSlider .item:eq(0)').addClass("selected");
         $('.iosSlider').height($('.iosSlider .item:eq(0)')[0].scrollHeight);
 
         $(window).resize(function () {
             $('.iosSlider').height($('.iosSlider .item.selected')[0].scrollHeight);
+            
         });
     });
 
