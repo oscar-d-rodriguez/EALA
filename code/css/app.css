@@ -396,7 +396,10 @@ body {
     -o-background-size: 280%!important;
     background-size: 280%!important;
 }
-}#stage .item.s1 {
+}
+
+
+#stage .item.s1 {
     background: url(../img/Argentina.jpg) no-repeat center center;
 }
 #stage .item.s2 {

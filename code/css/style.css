@@ -355,7 +355,7 @@ ul#menu-main > li:nth-child(6) > a:hover {
 
 #headerwrap.argentina
     {
-    background: url(../img/Argentina.jpg) #fff no-repeat center 85% fixed;
+    background: url(../img/Argentina.jpg) #fff no-repeat center 62% fixed;
     -webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -364,7 +364,7 @@ ul#menu-main > li:nth-child(6) > a:hover {
 
 #headerwrap.casablanca
     {
-    background: url(../img/Casablanca.jpg) #fff no-repeat center 70% fixed;
+    background: url(../img/Casablanca.jpg) #fff no-repeat center 20% fixed;
     -webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;

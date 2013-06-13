@@ -1256,3 +1256,26 @@ margin: 0.563em 0 2.500em;
 	padding-top: 30px;
 	}
  }
+
+
+@media screen and (min-height:1500px) and (min-width: 800px){
+	#headerwrap{
+		-webkit-background-size: 100%!important;
+	    -moz-background-size: 100%!important;
+	    -o-background-size: 100%!important;
+	    background-size: 100%!important;
+	    background-position: center center;
+	}
+	#headerwrap.argentina {
+		background: url(../img/Argentina.jpg) #fff;
+	}
+	#headerwrap.bratislava {
+		background: url(../img/Bratislava.jpg) #fff;
+	}
+	.monterrey #headerwrap {
+		background: url(../img/Monterrey.jpg) #fff;
+	}
+	#headerwrap.casablanca {
+		background: url(../img/Casablanca.jpg) #fff;
+	}
+}
