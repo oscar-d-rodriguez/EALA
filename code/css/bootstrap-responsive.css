@@ -906,6 +906,16 @@ section#contact{
 
 
  @media (max-width: 480px) {
+.bratislava section#portfolio hgroup h2{
+	font-size: 1.7em
+
+}
+
+.eala-logo {
+	background: url(../img/logos/eala-logo-mobile.svg);
+  	background-size: 100px 50px;
+  	width: 100px;
+}
 
 section#portfolio .entry-content {
         margin-bottom:0px;
@@ -950,7 +960,7 @@ footer small{
 	
 	}
 .navbar .brand{
-	width:222px;
+	width:100px;
 	padding-top:5px
 	}
 
@@ -987,7 +997,7 @@ section#contact{
 font-size: .7em;
 line-height: 1.2em;
 display: block;
-height: 160px;
+height: 195px;
 	}
 
 #headerwrap
@@ -1067,15 +1077,16 @@ height: 160px;
 
  @media (max-width: 979px) {
 
+
 body.argentina #services .span4{
 	height:378px
 
 }
+#news .tab-content p{
+font-size: .8em;
 
-#feature article p, #feature article ul{
-	
-	}	 
-s
+	}
+
 #services .span4{
 	min-height:auto
 	}	

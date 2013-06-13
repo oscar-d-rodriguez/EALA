@@ -317,8 +317,21 @@ ul#menu-main > li:nth-child(6) > a:hover {
 /* ---------------------------------------------------------------------------------------------------------- 
 05 Single-Page Sections ------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------- */
-.bratislava #services .span4{
-	min-height: auto }
+
+.eala-logo {
+	display: block;
+  text-indent: -9999px;
+  width: 194px;
+  height: 50px;
+  background: url(../img/logos/eala-logo.svg);
+  background-size: 200px 50px;
+  background-repeat: no-repeat;
+}
+
+.bratislava #services .span4
+{
+}
+
 #headerwrap {
 	width: 100%;
 	background: url(../img/stages/2.jpg) #fff no-repeat center center fixed;
@@ -333,7 +346,7 @@ ul#menu-main > li:nth-child(6) > a:hover {
 }
 #headerwrap.bratislava
     {
-    background: url(../img/Bratislava.jpg) #fff no-repeat center center fixed;
+    background: url(../img/Bratislava.jpg) #fff no-repeat center 85% fixed;
     -webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -342,16 +355,16 @@ ul#menu-main > li:nth-child(6) > a:hover {
 
 #headerwrap.argentina
     {
-    background: url(../img/stages/1.jpg) #fff no-repeat center center fixed;
+    background: url(../img/Argentina.jpg) #fff no-repeat center 85% fixed;
     -webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
     }
 
-#headerwrap.casa-blanca
+#headerwrap.casablanca
     {
-    background: url(../img/Casa-blanca.jpg) #fff no-repeat center center fixed;
+    background: url(../img/Casablanca.jpg) #fff no-repeat center 70% fixed;
     -webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
