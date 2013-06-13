@@ -468,9 +468,9 @@ $(document).ready(function() {
           },
           marker:{
             values:[
-              {address:'Santa Fe 1173, Rosario, Santa Fe, Argentina S2000ATO', data:"<h3>Rosario Building</h3><p>Tel: +(54341) 447 8300</p>"},
-              {address:"Av Córdoba 2057, Capital Federal, Buenos Aires, Argentina C1120AAC", data:"<h3>Córdoba Building</h3> <p>Tel: +(5411) 4705 6000 <br/>Fax: +(5411) 4705 6962</p>"},
-              {address:'Diag. 80 942, La Plata, Buenos Aires, Argentina', data:"<h3>La Plata Building </h3> <p>Tel: +(54221) 426 2000 <br/> Fax: +(54221) 426 2154 | 22000</p>"}
+              {address:'Santa Fe 1173, Rosario, Santa Fe, Argentina S2000ATO', data:"<h3>Rosario Building</h3><p>Santa Fe 1173, Rosario, Santa Fe, Argentina S2000ATO</p><p>Tel: +(54341) 447 8300</p>"},
+              {address:"Av Córdoba 2057, Capital Federal, Buenos Aires, Argentina C1120AAC", data:"<h3>Córdoba Building</h3><p>Av Córdoba 2057, Capital Federal, Buenos Aires, Argentina C1120AAC</p> <p>Tel: +(5411) 4705 6000 <br/>Fax: +(5411) 4705 6962</p>"},
+              {address:'Diag. 80 942, La Plata, Buenos Aires, Argentina', data:"<h3>La Plata Building </h3><p>Diag. 80 942, La Plata, Buenos Aires, Argentina</p> <p>Tel: +(54221) 426 2000 <br/> Fax: +(54221) 426 2154 | 22000</p>"}
             ],
             cluster:{
                 radius:100,
@@ -513,7 +513,7 @@ $(document).ready(function() {
           },
           marker:{
             values:[
-              {latLng:[25.669876,-100.377609], data:"<h3>Monterrey</h3><em>Oficinas en el parque</em></h3><p>Tel: +(52) 81 8048-0600 </p>"}
+              {latLng:[25.669876,-100.377609], data:"<h3>Monterrey</h3><p>Blvd. Antonio L. Rodriguez 1884, Oficinas en el Parque Torre 1 -  Piso 5, Col. Santa Maria CP 64650, Monterrey, N.L. México</p></h3><p>Tel: +(52) 81 8048-0600 </p>"}
             ],
            
             options:{
