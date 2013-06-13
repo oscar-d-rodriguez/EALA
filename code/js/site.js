@@ -457,6 +457,57 @@ window.log=function(){log.history=log.history||[];log.history.push(arguments);if
 $(document).ready(function() {
     $(".tabbable.responsive").responsiveTabs();
 
+    // Contact form
+
+    $(".cform-form").validate({
+        rules: {
+            name: "required",
+            email: {
+                required: true,
+                email: true
+            },
+            message: "required"
+        },
+        messages: {
+            name: "You forgot to put your name",
+            email: "That's not your real email",
+            message: "Leave us a message"
+        },
+        errorPlacement: function(error,element) {
+            element.attr("placeholder", error.text());
+            console.log(element);
+        },
+        submitHandler: function(form) {
+            var form = $(this).parents('form');
+            var errorObj = form.find('.cform-response-output');
+            showMessage(errorObj, 'Your message has been <br/>sent successfuly!');
+
+            $.ajax({
+                url: 'mailform.php',
+                type: 'POST',
+                data: { name: name, email: email, company: company, message: message, mailTo: mailTo },
+                success: function (data, textStatus, xhr) {
+                    form.find('input[type=text], textarea').val('');
+                    showMessage(errorObj, 'Your message has been <br/>sent successfuly!');
+                },
+                error: function (xhr, textStatus, errorThrown) {
+                    alert('something bad ocurred' + textStatus + 'error' + errorThrown);
+                    form.find('input[type=text], textarea').val('');
+                    showMessage(errorObj, 'There was an error <br/>processing your request');
+                }
+            });
+            
+        }
+    });
+
+    
+    function showMessage(errorObj, message){
+             $('.cform-response-output').html(message).slideDown(200);
+             setTimeout(function (e) {
+                 $('.cform-response-output').slideUp(200);
+            }, 3000);
+        }
+
     //Google Maps
 
 
