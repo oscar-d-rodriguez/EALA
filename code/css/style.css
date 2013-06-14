@@ -1,0 +1,1604 @@
+/*!
+ * LEGEND - Free Responsive One Page Template
+ *
+ * Copyright 2013
+ * Created by: Inbetwin Network
+ * URL: http://inbetw.in
+ * Designed and built based on Twitter Bootstrap. */
+
+/*
+===========================
+CONTENTS:
+
+01 Sensible defaults
+02 Typography
+03 Non-semantic
+04 Navbar
+05 Single-Page Sections
+06 Footer
+07 Bootstrap Carousel
+08 Buttons
+09 Media queries 
+===========================
+*/
+
+/* ---------------------------------------------------------------------------------------------------------- 
+01 Sensible defaults ----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------- */
+
+div, article, section, header, footer, nav, li {
+	position:relative;
+}
+.group:after {
+	display:block;
+	height:0;
+	clear:both;
+	content:".";
+	visibility:hidden; /* For clearing */
+}
+body {
+	background:#fff;
+	color: #312A1E;
+	font-size: 100%;
+	font-family:'SegoeUIL', 'Segoe UI', Arial, Verdana, Geneva;
+	
+
+}
+::-moz-selection {
+background:#f3bf00;
+color:#333;
+}
+::selection {
+background:#ff5800;
+color:#fff;
+}
+/*---------- FORMS ----------*/
+
+input[type=text], input[type=submit], textarea {
+	width: 100%;
+	padding: 0.5em;
+	font-size: 1em;
+	margin-bottom: 1.5em;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+input, button, select, textarea {
+	font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+}
+/* ---------------------------------------------------------------------------------------------------------- 
+02 Typography -----------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------- */
+
+/* Font Face */
+
+@font-face {
+  font-family: 'SegoeUI';
+  src: url("../font/segoeui.eot?#iefix"), url("../font/segoeui.woff") format("woff"), url("../font/segoeui.ttf") format("truetype"), url("../font/segoeui.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+ }
+
+@font-face {
+  font-family: 'SegoeUIL';
+  src: url("../font/segoeuil.eot?#iefix"), url("../font/segoeuil.woff") format("woff"), url("../font/segoeuil.ttf") format("truetype"), url("../font/segoeuil.svg") format("svg");
+  font-weight: lighter;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'SegoeUI Semilight';
+  src: url("../font/segoeuisl.eot?#iefix"), url("../font/segoeuisl.woff") format("woff"), url("../font/segoeuisl.ttf") format("truetype"), url("../font/segoeuisl.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'SegoeUIB';
+  src: url("../font/seguisb.eot?#iefix"), url("../font/seguisb.woff") format("woff"), url("../font/seguisb.ttf") format("truetype"), url("../font/seguisb.svg") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+  
+  
+/*
+
+14 / 16	= 		0.875em 		(14px equivalent)
+16 / 16	= 		1em 			(16px equivalent)
+18 / 16 = 		1.125em 		(18px equivalent)
+21 / 16 = 		1.3125em 		(21px equivalent)
+24 / 16 = 		1.5em 			(24px equivalent)
+30 / 16 = 		1.875em 		(30px equivalent)
+
+*/
+
+
+
+p {
+	font-size: 1em; /* 16px */
+	line-height: 1.5; /* 24px */
+	margin: 0 0 1.5em 0;
+}
+ul, ol {
+	font-size: 1em; /* 16px */
+	line-height: 1.5; /* 24px */
+	margin: 0 0 1.5em 0;
+	list-style: none;
+}
+body, input, textarea {
+}
+a:link, a:visited {
+	color: #F1505A;
+}
+a:hover, a:active {
+	color: #F1505A;
+	text-decoration: underline;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal; /* reset default browser weight for our webfonts */
+	font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+}
+h1 {
+	font-size: 1.5em; /* 24px */
+	line-height: 1; /* 24px */
+	margin-top: 1.42em;
+	margin-bottom: 0em;
+}
+h2 {
+	font-size: 1.3125em; /* 21px */
+	line-height: 1.1429; /* 24px */
+	margin-top: 1.1429em;
+	margin-bottom: 0em;
+}
+h3 {
+	font-size: 1.125em; /* 18px */
+	line-height: 1.3333; /* 24px */
+	margin-top: 1.3333em;
+	margin-bottom: 0em;
+}
+h4 {
+	font-size: 1em; /* 16px */
+	line-height: 1.5; /* 24px */
+	margin-top: 1.5em;
+	margin-bottom: 0em;
+}
+h5 {
+	font-size: 0.875em; /* 14px */
+	line-height: 1.7143; /* 24px */
+	margin-top: 1.7143em;
+	margin-bottom: 0em;
+}
+strong {
+	font-weight:normal;
+	font-family: 'SegoeUIB', 'Segoe UI';
+ 	font-weight: bold;
+}
+small {
+	font-size: 0.75em; /* 12px */
+	line-height: 2; /* 24px */
+	margin-top: 2em;
+	margin-bottom: 0em;
+}
+em {
+	font-style: normal;
+	font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+}
+.muted {
+color: #333;
+font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+display: block;
+font-size: 80%;
+}
+.impressed {
+	text-shadow:
+ -1px -1px 0 rgba(0, 0, 0, 0.5), /* shadow */  1px 1px 0 rgba(255, 255, 255, 0.9); /* highlight */
+}
+.more-link {
+	font-size: .875em; /* 14px */
+	margin-top: 1.5em;
+	font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+}
+.more-link:link, .more-link:visited {
+	color: #f0bf00;
+	text-transform: uppercase;
+}
+/* ---------------------------------------------------------------------------------------------------------- 
+03 Non-semantic ------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------- */
+/* New Image Replacement Hack */
+
+.hide-text {
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	font-size: 1em;
+}
+.alignright {
+	text-align: right;
+}
+.alignleft {
+	text-align: left;
+}
+.aligncenter {
+	text-align: center;
+}
+.medium {
+	font-weight: normal;
+	font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+}
+/* ---------------------------------------------------------------------------------------------------------- 
+04 Navbar ------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------- */
+
+.navbar-fixed-top .container {
+/* Uncomment to make nav expand full width */
+ /*	width: auto; */
+}
+.navbar .brand {
+	margin-left:0;
+	padding: 0;
+	margin-top:.7em;
+}
+.navbar .brand a {
+	padding: 0;
+	color: #fff;
+	font-size: 1.75em;
+	margin-left: 0;
+	font-weight: normal;
+	font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+}
+.navbar .brand a:hover {
+	text-decoration: none;
+	color:#f0bf00;
+	 transition: color .15s linear;
+	 -webkit-transition: color .15s linear;
+	 -moz-transition: color .15s linear;
+}
+.navbar .brand a:focus {
+	outline: none;
+}
+.navbar-inner {
+	min-height: 4.75em;
+}
+.navbar-inverse .navbar-inner {
+	background-repeat: repeat;
+	background-color: #fff;
+	border:none;
+}
+.navbar-wrapper {
+	overflow:hidden;/* No fixed height, will break collapsible nav */
+}
+#menu-main {
+	margin-top: 1.125em;
+}
+ul#menu-main > li > a {
+	font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+font-weight: normal;
+font-size: 1em;
+color: #737678;
+border-bottom: solid 2px #fff;
+outline: 0;
+}
+ul#menu-main > li > a:current{
+	border:solid 1px red
+	}
+ul#menu-main > li:first-child > a{
+		font-weight: bold;
+
+}
+ul#menu-main > li > a:hover {
+	border-bottom:solid 2px #ccc	
+	}
+ul#menu-main > li:nth-child(1) > a:hover {
+	border-bottom-color:#009FDA;
+	}
+ul#menu-main > li:nth-child(2) > a:hover {
+	border-bottom-color:#CF0072
+	}
+ul#menu-main > li:nth-child(3) > a:hover {
+	border-bottom-color:#FF5800
+	}
+ul#menu-main > li:nth-child(4) > a:hover {
+	border-bottom-color:#34B233
+	}
+ul#menu-main > li:nth-child(5) > a:hover {
+	border-bottom-color:#009FDA
+	}
+ul#menu-main > li:nth-child(6) > a:hover {
+	border-bottom-color:#CF0072
+	}	
+.navbar-inverse .brand, .navbar-inverse .nav > li > a {
+	text-shadow: none;
+    }
+/* ---------------------------------------------------------------------------------------------------------- 
+05 Single-Page Sections ------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------- */
+
+.eala-logo {
+	display: block;
+  text-indent: -9999px;
+  width: 194px;
+  height: 50px;
+  background: url(../img/logos/eala-logo.svg);
+  background-size: 200px 50px;
+  background-repeat: no-repeat;
+}
+
+.bratislava #services .span4
+{
+}
+
+#headerwrap {
+	width: 100%;
+	background: url(../img/Monterrey.jpg) #fff no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+	min-height: 600px;
+	margin-top: -60px;
+	padding-top:160px;
+	text-align:center;
+}
+#headerwrap.bratislava
+    {
+    background: url(../img/Bratislava.jpg) #fff no-repeat center 85% fixed;
+    -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+    }
+
+#headerwrap.argentina
+    {
+    background: url(../img/Argentina.jpg) #fff no-repeat center 62% fixed;
+    -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+    }
+
+#headerwrap.casablanca
+    {
+    background: url(../img/Casablanca.jpg) #fff no-repeat center 20% fixed;
+    -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+    }
+
+#headerwrap h1 {
+	color: #FFFFFF;
+	font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+	font-size: 3.5em;
+	margin: 0 auto;
+	max-width:600px;
+	padding-bottom:13px;
+	padding-top:10px;
+	margin-top:3.5em;
+}
+#headerwrap h1 span{
+	background-color:#1b2449;
+	color: #fff;
+	line-height: 160%;
+	
+}
+#headerwrap h2 {
+	color: #FFFFFF;
+	font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+	font-size: 2em;
+	font-weight: normal;
+	margin: 0.5em 0;
+	text-shadow: 1px 1px 1px #333333;
+}
+
+#headerwrap input[type=text] {
+	background: rgba(227, 231, 228, 1);
+	font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+	font-size: 1.3125em;
+	border: 0;
+	text-align: center;
+	vertical-align: middle;
+	margin-bottom:0 !important;
+}
+#headerwrap input[type=text]:focus {
+	background: #43413e;
+	color: #eff1ef;
+	transition: background 0.25 ease-in;
+	-moz-transition: background 0.25 ease-in;
+	-webkit-transition: background 0.25 ease-in;
+}
+#headerwrap input[type=text] {
+	height: 2.9em;
+	width:50%;
+}
+#headerwrap input[type=submit] {
+	font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+	color: #fff;
+	width: 185px;
+	height: 2.9em;
+	font-size: 1.3125em; /* 21px */
+	padding:0.5em;
+	letter-spacing: 0.05em;
+	margin: 0;
+	border: 0;
+	text-transform: none;
+	background: #f0bf00 !important;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+#headerwrap input[type=submit]:hover, #headerwrap input[type=submit]:active {
+	background: #43413e !important;
+}
+/*========== Social Icons ==========*/
+ul.icon {
+	font-size:54px;
+	margin:1em 0 0.5em 0;
+}
+ul.icon li {
+	display:inline-block;
+	-webkit-transition: all 0.3s linear;
+	-moz-transition: all 0.3s linear;
+	-o-transition: all 0.3s linear;
+	transition: all 0.3s linear;
+}
+ul.icon li:hover {
+	opacity:0.7;
+}
+section.single-page {
+	padding: 4.75em 0; /* 76px */
+	padding-bottom:0px;
+	/*border:solid 1px red*/
+}
+section.single-page h1 {
+	text-align: center;
+	font-family:  'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+	margin-bottom: 2em; /* 72px */
+	font-size: 2.25em; /* 36px */
+}
+#feature {
+	background-color: #1b2449 /* url("../img/yellow.png") repeat-x 0 0;*/;
+	height: auto;
+	z-index: 500;
+	box-shadow: 0 5px 16px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 0 5px 16px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: 0 5px 16px rgba(0, 0, 0, 0.3);
+	padding-bottom:5em
+	}
+#feature article {
+	text-align: center;
+	margin-top: 90px;
+	max-width: 1170px;
+}
+
+#feature-headline {
+	font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+	text-transform: uppercase;
+	color: rgba(228, 229, 229, 1);
+	margin-bottom: 3%; /* 39px */
+	margin-top: -.25em;
+	height: 109px;
+	background-size: 100% auto;
+}
+#feature-headline span {
+	font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+	text-transform: lowercase;
+}
+#feature article p, #feature article ul {
+	font-family: 'SegoeUIL', 'Segoe UI';
+	 font-weight: light;
+	font-size:1.2em;
+	margin-bottom: 0;
+	line-height: 1.35;
+	color: #fff;
+}
+/* Portfolio */
+
+
+/* layout*/
+section#portfolio {
+	/*padding-bottom:50px*/
+	}
+section#portfolio h1{
+	margin-top:1em;
+	margin-bottom:1em;
+	font-size:3em
+	}
+
+section#portfolio hgroup h2 {
+	margin-top: 0;
+	text-transform: capitalize;
+	font-size: 2.125em;
+}
+section#portfolio hgroup h3 {
+	margin-top: .35em;
+	font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+	font-size: 1.125em;
+}
+section#portfolio .entry-content {
+	margin: 3.438em 0 2.5em;
+}
+section#portfolio .bussiness h2, section#portfolio .solution h2 {
+	font-size: 1.750em;
+	margin-top: 0;
+}
+section#portfolio .bussiness blockquote {
+	border-left: 5px solid #009FDA;
+}
+section#portfolio .solution blockquote {
+border-left: 5px solid #CF0072;
+}
+section#portfolio .bussiness blockquote p, section#portfolio .solution p, section#portfolio .bussiness blockquote ul, section#portfolio .solution ul {
+	font-size: 1.063em;
+	margin: 2.500em 0 0;
+	line-height: 1.5;
+	font-weight: normal;
+}
+
+
+/* page slider bullets */
+section#portfolio .pager-slider {
+	margin:0;
+	text-align: center;
+	list-style: none;
+	padding: 0;
+	margin-bottom:2em
+}
+section#portfolio .pager-slider li{
+	list-style: none;
+	display: inline-block;
+}
+section#portfolio .pager-slider li a{
+	background: #fff;
+	width: 10px;
+	height: 10px;
+	display: block;
+	font-size: 1.875em;
+	color: #333333;
+	line-height: 1.6em;
+	border:solid 1px #999;
+		-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+section#portfolio .pager-slider li:last-child a{
+	margin-right:0px;
+	}
+
+section#portfolio .pager-slider li a.selected{
+	background: #ccc;
+	color: #fff;
+}
+section#portfolio .pager-slider li a:hover{
+	background: #ccc;
+	color: #fff;
+	text-decoration: none;
+}
+
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
+
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+  }
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+  }
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+  }
+
+
+
+/* containers */
+
+.sliderContainer {
+	height: 100%;
+	padding: 0 0;
+}
+
+.iosSlider {
+	position: relative;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	width: 100%;
+	height:100%;
+}
+
+.iosSlider .slider { width: 100%; height: 100%; }
+
+.iosSlider .slider .item { width: 100%; height: 100%; padding:0; }
+
+
+
+/* Portfolio Image Hover */
+.mask2 img {
+	margin: 0 auto;
+	max-width: 100%;
+	display: block;
+}
+.mask2 img:hover {
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=99)";
+	filter: alpha(opacity=99);
+	opacity: 1;
+}
+
+/* Services */
+
+section#services {
+	/* padding-bottom: 9.5em;*/
+}
+#services h1 {
+	font-size: 3em;
+	margin-bottom: 1em;
+	margin-top: 1em;
+}
+section#services h2 {
+font-size: 22px;
+margin-top: 10px;
+padding: 10px 1.2em;
+border-top: solid 1px #fff;
+border-bottom: solid 1px #fff;
+color:#fff
+}
+section#services p, section#services ul {
+margin: 0px;
+padding: 2em;
+font-size: .8em;
+color:#fff
+}
+
+section#services ul {
+	min-height: 120px;
+}
+
+section#services .align {
+text-align: center;
+margin-top: 30px;
+font-size: 6em;
+margin-bottom: 30px;
+}
+
+#BI{
+	background-color:#008cc1
+	}
+section #BI h2{
+	border-color:#19a9df;	
+	}	
+#UX{
+	background-color:#007aa7
+	}	
+section #UX h2{
+	border-color:#169cce
+	}
+
+#NET{
+	background-color:#215888
+	}
+section #NET h2{
+	border-color:#467ca1	
+	}
+	
+section#services .align .sev_icon {
+	text-align:center;
+	margin:10px 0 20px 0;
+	font-size: 0.6em;
+	color:#F0BF00;
+}
+section#services .span3 {
+	background:#e9e9e9;
+	padding: 20px 0;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+section#services .span3:hover {
+	background:#e3e3e3;
+	box-shadow: 1px 1px 6px #C1BAC1;
+}
+
+#services .span4{
+	min-height:378px
+	}	
+/* Testimonials */
+
+section#testimonials {
+	height:  647px;
+	background: url("../img/yellow_testimonial.png") repeat-x 0 0;
+	padding: 0;
+	color: #e4e5e2;
+	z-index: 500;
+	box-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
+}
+section#testimonials .blockquote-wrapper {
+	display: table-cell;
+	vertical-align: middle;
+	height:  647px;
+}
+blockquote.mega {
+}
+blockquote.mega p {
+	font-size: 45px;
+	line-height: 50px;
+	text-align: left;
+	font-family: 'SegoeUIL', 'Segoe UI';
+	font-weight:bold;
+	color:#312A1E;
+}
+blockquote.mega .cite {
+	font-size: 22px;
+	text-align: left;
+	font-weight:300;
+}
+/* News */
+section#news {
+	/*background: url("../img/grey-cardboard-bg.png") repeat 0 0;*/
+}
+section#news .align {
+	font-size: 6em;
+	text-align: center;
+}
+article.post {
+	background: none repeat scroll 0 0 rgba(255, 255, 255, 0.7);
+	border-bottom-left-radius: 6px;
+	border-bottom-right-radius: 6px;
+	box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
+}
+article .inside {
+	margin: 18px 24px 24px;
+	padding-top: 1em;
+	background: url("../img/dot-row-2.png") repeat-x scroll 0 0 transparent !important;
+}
+.post-date {
+	color: #A5A5A2;
+	float: right;
+	font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+	font-size: 14px;
+	font-style: normal;
+	line-height: 2;
+	margin-right: 5px;
+}
+#news h1 {
+	font-size: 3em;
+	margin-bottom: 1em;
+	margin-top: 1em;
+}
+#news h2 {
+	font-size: 21px;
+	margin-top: 24px;
+	margin-bottom: 16px;
+	color: #312A1E;
+	clear: right;
+}
+/* Team and Contact */
+
+.span5 h2 {
+    color:#006EB5;
+    font-family:'SegoeUI',cursive, 'Segoe UI';
+ 	font-weight: light;
+}
+
+section#contact {
+	margin-top:8em;
+	background: #efefef;	
+
+}
+
+section#contact h2{
+	margin:2em 0;
+	font-size:1em;
+	line-height:1.5em
+	}
+
+
+section#team .align, section#contact .align {
+	font-size: 6em;
+	text-align: center;
+}
+
+
+#team h1, #contact h1 {
+	font-size: 3em;
+	margin-bottom:1em;
+	margin-top: 1em;
+}
+#contact, #team {
+	/*padding-top: 4.75em;*/
+}
+
+
+/* team */
+
+#team h3 {
+	font-size: 22px;
+	margin-top: 24px;
+	margin-bottom: 0px;
+}
+#team h3, .job-position {
+	text-align: left;
+}
+#team .featurette {
+	text-align: left;
+	font-size: 21px;
+}
+#team h2.featurette-heading {
+	margin-bottom: 24px;
+	text-align: left;
+	margin-top:0px
+}
+
+/*
+#team .milestone {
+	text-align: left;
+	background: #0077C8;
+	color: white;
+}
+#team .milestone p {
+	font-size: 100%;
+}
+#team .milestone p span {
+	background: #005893;
+	font-size: 110%;
+	float: left;
+}
+*/
+
+#team .milestones h3 {
+	margin-top: 50px;
+	padding-top: 5px;
+	border-top-style: solid;
+	border-top-width: 5px;
+}
+
+#team .milestones h3.m1 {
+	border-top-color: #006EB5;
+	color: #006EB5;
+}
+
+#team .milestones h3.m2 {
+	border-top-color: #005C97;
+	color: #005C97;
+}
+
+#team .milestones h3.m3 {
+	border-top-color: #004A7A;
+	color: #004A7A;
+}
+
+#team .milestones h3.m4 {
+	border-top-color: #00385E;
+	color: #00385E;
+}
+
+#team .milestones p {
+	text-align: left;
+	margin-bottom:0px
+}
+
+.teamalign {
+	text-align:center
+}
+.team-thumb {
+	margin-top: 26px;
+	text-align:center;
+}
+.job-position {
+	font-family: 'SegoeUIL', 'Segoe UI';
+	 font-weight: light;
+	margin-bottom: .46155em;
+}
+
+/* Contact Form */
+
+#theme-form {
+	position: relative;
+	z-index: 999;
+}
+#theme-form input[type=text], .cform-form textarea {
+
+	font-family: 'SegoeUIL';
+	border: 0;
+	text-align: left;
+	vertical-align: middle;
+}
+#theme-form input[type=text]:focus, .cform-form textarea:focus {
+	background: rgba(101, 106, 100, 1);
+	color: #eff1ef;
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	transition: background 0.25 ease-in;
+	-moz-transition: background 0.25 ease-in;
+	-webkit-transition: background 0.25 ease-in;
+}
+#theme-form input[type=text] {
+	height: 3.25em;
+}
+#theme-form input[type=submit] {
+	font-family: 'SegoeUIL';
+	color: #fff;
+	width: 185px;
+	height: 60px;
+	text-shadow: none;
+	font-size: 1.3125em; /* 21px */
+	padding:0.5em;
+	letter-spacing: 0.05em;
+	margin: 0 0 20px 0;
+	display: block;
+	border: 0;
+	text-transform: none;
+	background: #ff5800 !important;
+	float: right;
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	margin-left:auto
+}
+
+.submit{
+	display:block;
+	}
+#theme-form input[type=submit]:hover, 
+#theme-form input[type=submit]:active {
+	background: #43413e !important;
+}
+#theme-form textarea {
+	padding-top: 1em;
+}
+.cform-response-output{
+             max-width: 100%;
+            padding: 10px 0px !important;
+            text-align: left;
+            display: none;
+         }
+.cform-not-valid-tip {
+	color: #888;
+	border: 1px dotted #ad3729 !important;
+	width: 100% !important;
+	left: 0 !important;
+	padding: 0.5em !important;
+	font-family: 'SegoeUIL';
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+
+.cform-text.error, .cform-textarea.error{
+	border: 2px solid #FF9999 !important;
+}
+
+#theme-form input[type=text].error:focus, .cform-form textarea.error:focus{
+	background-color: #FF9999 !important;
+	color: #8C0000;
+}
+.error:focus::-webkit-input-placeholder { /* WebKit browsers */
+    color: #8C0000;
+}
+.error:focus:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #8C0000;
+}
+.error:focus::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: #8C0000;
+}
+.error:focus:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color: #8C0000;
+}
+/* Featurettes */
+
+
+
+hr.featurette-divider {
+	margin: 3em 0;
+	border-width: 0;
+	height: 9px;
+	background: url("../img/dot-row-3-lt.png") repeat-x;
+}
+/* ---------------------------------------------------------------------------------------------------------- 
+06 Footer ------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------- */
+
+#map-wrapper {
+	margin-top: 20px;
+}
+footer {
+	text-align: center;
+	color: #1a1a1a;
+}
+footer small{
+	float:left;
+	margin-top:2.7em
+	}
+.logo-avanade{
+	float:right;
+	margin: 17px 0;
+	}	
+footer p {
+
+}
+/* ---------------------------------------------------------------------------------------------------------- 
+07 Bootstrap Carousel ------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------- */
+    
+    .carousel-caption {
+	background-color: transparent;
+	position: static;
+	max-width: 550px;
+	padding: 0 20px;
+	margin-top: 200px;
+	position:absolute;
+}
+.carousel-caption h1,  .carousel-caption .lead {
+	margin: 0;
+	line-height: 1.25;
+	color: #fff;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, .4);
+}
+.carousel-caption .btn {
+	margin-top: 10px;
+}
+.carousel-control {
+	height: 50px;
+	top: 46%;
+	margin-top: 0;
+	font-size: 6.5em;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, .4);
+	background-color: transparent;
+	border: 0;
+	font-family: 'SegoeUIL', 'Segoe UI';
+	font-weight: light;
+	opacity: 0.4;
+	border-radius: 0;
+}
+.carousel-control:link, .carousel-control:visited {
+	color: #262626;
+}
+/* Banner Carousel  */    
+    #banner.carousel {
+	margin-top: 4.75em;
+	margin-bottom: 0;
+	margin-top: 0;
+	max-height: 642px;
+}
+.banner-caption {
+	/*	width: 18%; */
+    	position: absolute;
+	left: 20%;
+	top: 10%;
+	color: #007ac3;
+}
+#intro-caption {
+	margin-top:150px;
+	font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+	text-align: center;
+	font-size: 80px;
+	line-height: 90px;
+	color:#fff;
+	font-weight:bold;
+	text-shadow: 2px 2px 2px #000;
+}
+#intro-caption span {
+	font-family:'SegoeUIL', 'Segoe UI';
+	 font-weight: light;
+	font-size: 0.65em;
+}
+#banner.carousel .item {
+}
+#banner.carousel img {
+}
+#banner.carousel .carousel-control {
+}
+/* ---------------------------------------------------------------------------------------------------------- 
+08 Buttons ------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------- */    
+.btn {
+	font-family: 'SegoeUIL', 'Segoe UI';
+ 	font-weight: light;
+	color: #fff;
+	width: 185px;
+	height: 20px;
+	text-shadow: none;
+	font-size: 1.3125em; /* 21px */
+	padding: 1em 0.5em;
+	letter-spacing: 0.05em;
+	margin: 4.5em auto 0;
+	display: block;
+	border: 0;
+	text-transform: none;
+	background: #000 !important;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+}
+.btn:link, .btn:visited {
+	color: #fff;
+}
+.btn:hover {
+	background: #FF5800 !important;
+}
+.navbar-inverse .btn-navbar {
+	width: auto;
+	height: auto;
+}
+
+/* ---------------------------------------------------------------------------------------------------------- 
+09 Media queries --------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------- */
+
+
+/* RESPONSIVE 
+-------------------------------------------------- */
+
+    @media (max-width: 1186px) {
+ .banner-caption {
+	    	/*	width: 18%; */
+	    	position: absolute;
+ left: 20%;
+ top: 6%;
+ color: #007ac3;
+}
+ #intro-caption {
+ font-family: 'SegoeUIL', 'Segoe UI';
+ font-weight: light;
+ text-align: center;
+ font-size: 60px;
+ line-height: 70px;
+}
+ .banner-caption p {
+ font-size: 1em;
+}
+}
+ @media (max-width: 979px) {
+ .navbar-fixed-top {
+ margin-bottom: 0;
+}
+ .navbar .container {
+ width: 100%;
+}
+ .navbar .brand {
+ margin-top: 0;
+}
+ .navbar .btn-navbar {
+ margin-top: 0;
+}
+ .navbar-fixed-top .navbar-inner {
+ padding: 0px;
+}
+ .featurette {
+ height: auto;
+ padding: 0;
+}
+ .featurette-image.pull-left,  .featurette-image.pull-right {
+ display: block;
+ float: none;
+ max-width: 40%;
+ margin: 0 auto 20px;
+}
+}
+ @media (min-width: 768px) and (max-width: 979px) {
+ #headerwrap {
+ padding-top:0;
+}
+}
+ @media (max-width: 767px) {
+ .container {
+ padding-right: 5px;
+ padding-left: 5px;
+}
+ .navbar-fixed-top,  .navbar-fixed-bottom,  .navbar-static-top {
+ margin-right: 0px;
+ margin-left: 0px;
+ margin-bottom:0px;
+ padding-bottom:0px;
+}
+ .navbar-inner {
+ margin: 0;
+}
+ .carousel {
+ margin-left: -20px;
+ margin-right: -20px;
+}
+ .carousel .container {
+}
+ .carousel-caption {
+ width: 65%;
+ padding: 0 70px;
+ margin-top: 100px;
+}
+ .carousel-caption h1 {
+ font-size: 30px;
+}
+ .carousel-caption .lead,  .carousel-caption .btn {
+ font-size: 18px;
+}
+ .featurette-heading {
+ font-size: 30px;
+}
+ .featurette .lead {
+ font-size: 18px;
+ line-height: 1.5;
+}
+}
+    
+    /* Smaller screens ----------- */
+	@media (max-width : 480px) {
+ #headerwrap {
+ padding-top:0;
+}
+ #headerwrap h1 {
+ font-size:2em;
+}
+ #headerwrap h2 {
+ font-size:1em;
+}
+ #headerwrap input[type="text"] {
+ width: 100%;
+}
+ #headerwrap input[type="submit"] {
+ margin-top:1em;
+ width: 135px;
+}
+ .container {
+1px solid yellow;
+}
+ #team .team-thumb {
+ margin-right: auto;
+ margin-left: auto;
+ width: 150px;
+ display: block;
+ text-align:center
+}
+ #feature article p,  #feature article ul {
+ font-family: 'SegoeUIL', 'Segoe UI';
+ font-weight: light;
+ font-size: 26px; /* font-size: 26px; */
+ margin-bottom: 0;
+ line-height: 30px;
+ color: #fff;
+}
+
+    
+    /* Smartphones (portrait and landscape) ----------- */
+	@media only screen  and (min-device-width : 320px)  and (max-device-width : 480px) {
+	
+ #feature-headline {
+ background: transparent;
+ text-indent: 0;
+ overflow: visible;
+ margin-top: 1.5em;
+}
+ #navbar-inner {
+ margin:	0;
+}
+ #banner { /*display: none;*/
+}
+ section.single-page {
+ padding: 1em 0;
+}
+		
+		/* Feature */
+		#feature-badge {
+/*	display: none; */
+		}
+		
+		/* Portfolio & News */
+		
+		#news h1 {
+ background: transparent;
+}
+ #news h1 span {
+ background: transparent;
+ padding: 0;
+}
+ #portfolio .container {
+ top: 0 !important;
+}
+ #feature article p,  #feature article ul  {
+ font-family: 'SegoeUIL', 'Segoe UI';
+ font-weight: light;
+ font-size: 26px; /* font-size: 26px; */
+ margin-bottom: 0;
+ line-height: 30px;
+ color: #fff;
+}
+ .img-news {
+ width: 100%;
+}
+ .img-news {
+ margin-right: auto;
+ margin-left: auto;
+ display: block;
+}
+ section#portfolio hgroup h2 {
+ margin-top: 1.5em;
+}
+	
+		/* Services */
+		
+		#services h1 {
+ background: transparent;
+}
+ #services h1 span {
+ background: transparent;
+ padding: 0;
+}
+ section#services h2 {
+ margin-bottom: 0.25em;
+}
+ section#services h2, section#services ul {
+ text-align: center;
+}
+		
+
+	    /* Testimonials */
+	    
+		section#testimonials { /*display: none;*/
+}
+	
+		/* team */
+		
+		#team .team-thumb {
+ margin-right: auto;
+ margin-left: auto;
+ width: 150px;
+ display: block;
+ text-align:center
+}
+ .job-position: {
+ margin-bottom: 1.5em;
+}
+ .navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top {
+ margin-left: auto;
+ margin-right: auto;
+}
+		
+		/* Contact Form */
+
+		#theme-form {
+ overflow: hidden;
+}
+ #theme-form input[type=submit] {
+ width: 100%;
+}
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen  and (min-width : 321px) {
+    
+    #feature-headline {
+        font-size: 32px; /* 34px */
+    }
+
+}
+	
+/* Smartphones (portrait) ----------- */
+@media only screen  and (max-width : 320px) {
+
+    #feature-headline {
+        font-size: 1.1875em; /* 19px */
+    }
+ 
+
+}
+
+	
+ #feature article p,  #feature article ul {
+ font-family: 'SegoeUIL';
+ font-size: 26px; /* font-size: 26px; */
+ margin-bottom: 0;
+ line-height: 30px;
+ color: #fff;
+}
+}
+	
+	/* iPads (portrait and landscape) ----------- */
+	@media only screen  and (min-device-width : 768px)  and (max-device-width : 1024px) {
+ .banner-caption p {
+ font-size: 0.6em;
+}
+ #intro-caption {
+ font-size: 4em;
+}
+}
+	
+	/* iPads (landscape) ----------- */
+	@media only screen  and (min-device-width : 768px)  and (max-device-width : 1024px)  and (orientation : landscape) {
+/* Styles */
+	}
+	
+	/* iPads (portrait) ----------- */
+	@media only screen  and (min-device-width : 768px)  and (max-device-width : 1024px)  and (orientation : portrait) {
+/* Styles */
+	}
+	
+	/* Desktops and laptops ----------- */
+	@media only screen  and (min-width : 1224px) {
+/* Styles */
+	}
+	
+/* ---------------------------------------------------------------------------------------------------------- 
+01 TABS
+---------------------------------------------------------------------------------------------------------- */
+#news .tab-content{
+	 background: url(../img/sliders/ba-references-1.jpg);
+      padding: 2em;
+		color:#fff;
+		font-size:2em;
+	
+	}
+#news .tab-content p {
+	margin-bottom:0px;
+	height: 165px;
+	}
+#news ul.nav-tabs{
+	margin-bottom:0px
+	} 
+
+.nav-tabs{
+	border:none
+	}
+		
+ .nav-tabs li{
+	background-color:#FF5800;
+	width:25%;
+	border:none;
+	margin:0px;
+	text-align:center
+	}
+ .nav-tabs > li > a{
+	border-radius:0px;
+	border:none;
+	margin-right:0px;
+	text-align: center;
+	}
+
+ .nav > li > a > img
+    {
+    max-width:100%;
+    }
+
+.nav > li > a:hover, .nav > li > a:focus{
+	background-color:#C64500
+	}	
+.nav-tabs > .active > a, .nav-tabs > .active > a:hover, .nav-tabs > .active > a:focus
+{
+    background-color:#C64500;
+    border:none
+}
+	  
+	 
+/* tab styles for small screen */
+
+@media (max-width: 770px) {
+
+    .tabbable.responsive .nav-tabs {
+        font-size: 16px;
+    }
+    .tabbable.responsive .nav-tabs ul {
+        margin: 0;
+    }
+    .tabbable.responsive .nav-tabs li {
+        /* box-sizing seems like the cleanest way to make sure width includes padding */
+        -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box; 
+            -ms-box-sizing: border-box;
+            -o-box-sizing: border-box;
+                box-sizing: border-box; 
+        display: inline-block; 
+        width: 100%; 
+        height: 90px;
+        padding:0px;
+        overflow: hidden;
+    }
+    .tabbable.responsive .nav-tabs > li > a {
+        border-style: none;
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+    }
+    /* include hover and active styling for links to override bootstrap defaults */
+    .tabbable.responsive .nav-tabs > li > a:hover {
+		border-radius:0px
+    }
+    .tabbable.responsive .nav-tabs > li > a:active,
+    .tabbable.responsive .nav-tabs > .active > a,
+    .tabbable.responsive .nav-tabs > .active > a:hover {
+        border-radius:0px;
+        background-color:#FF5800
+    }
+	
+	/* sample styles for the tab controls on small screens  - start with left control and override for right */
+.tabbable.responsive .nav-tabs > li > a.tab-control,
+.tabbable.responsive .nav-tabs > li > span.tab-control-spacer {
+    float: left;
+    width: 50px;
+    height:67px;
+    padding-top:23px;
+    margin-top:0px;
+    font-size: 56px;
+    font-weight: 100;
+    line-height: 26px;
+    color: #fff;
+    text-align: center;
+    background: #ff5800 ;
+    cursor:pointer
+    }
+.tabbable.responsive .nav-tabs > li > a.tab-control.right,
+.tabbable.responsive .nav-tabs > li > span.tab-control-spacer.right {
+    float: right;
+}
+.tabbable.responsive .nav-tabs > li > a.tab-control:hover {
+    color: #fff;
+    background: #444;
+}
+.tabbable.responsive .nav-tabs > li > span.tab-control-spacer {
+    line-height: 28px;
+    color: transparent;
+    background: transparent;
+}
+
+}
+			
+#map_canvas{
+	height:450px;
+	width:100%;
+	background: #fff;
+}
+#map_canvas .cluster{
+	background: url('../img/icons/eala_marker.png') no-repeat;
+	font-weight: bold;
+	font-size: 15px;
+	color: #333;
+	font-family: sans-serif;
+	padding: 9px 14px;
+	width: 11px;
+	height: 25px;
+}
