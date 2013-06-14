@@ -907,12 +907,15 @@ section#contact{
 
  @media (max-width: 480px) {
 <<<<<<< HEAD
+<<<<<<< HEAD
 body, html{
 overflow-x:hidden;
 width:100%;
 margin:0px;
 padding:0px
 }
+=======
+>>>>>>> 443e9d9be4ba16bc8ae95f44b8c5f7c20c66fe8a
 =======
 >>>>>>> 443e9d9be4ba16bc8ae95f44b8c5f7c20c66fe8a
 .bratislava section#portfolio hgroup h2{
@@ -1022,7 +1025,11 @@ height: 195px;
 #headerwrap.argentina
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
     background: url(../img/Argentina-mobile.jpg) #fff center center;
+=======
+    background: url(../img/Argentina-mobile.jpg) #fff center -300px ;
+>>>>>>> 443e9d9be4ba16bc8ae95f44b8c5f7c20c66fe8a
 =======
     background: url(../img/Argentina-mobile.jpg) #fff center -300px ;
 >>>>>>> 443e9d9be4ba16bc8ae95f44b8c5f7c20c66fe8a
