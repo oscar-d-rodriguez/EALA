@@ -1014,7 +1014,7 @@ height: 195px;
 
 #headerwrap.bratislava
     {
-    background-color:red ;
+      background: url(../img/Bratislava-mobile.jpg) #fff center center;
     }
 #headerwrap.argentina
     {
