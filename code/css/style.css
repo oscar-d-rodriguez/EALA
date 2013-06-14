@@ -1047,18 +1047,23 @@ hr.featurette-divider {
 }
 footer {
 	text-align: center;
-	color: #1a1a1a;
 }
 footer small{
 	float:left;
-	margin-top:2.7em
+	margin-top:2.7em;
+	width: 80%;
 	}
 .logo-avanade{
 	float:right;
 	margin: 17px 0;
 	}	
 footer p {
+	font-family:  'Segoe UI';
+	text-align: left;
 
+}
+footer p + p{
+	color:red;
 }
 /* ---------------------------------------------------------------------------------------------------------- 
 07 Bootstrap Carousel ------------------------------------------------------------
