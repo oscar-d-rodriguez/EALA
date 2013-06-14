@@ -1,6 +1,14 @@
 
 	jQuery(document).ready(function($) {
 
+        // SVG  fix for IE 8
+            if (!Modernizr.svg) {
+                $('img[src$=".svg"]').each(function()
+                {
+                    $(this).attr('src', $(this).attr('src').replace('.svg', '.png'));
+                });
+            }
+
 		    //$('#nav-main').scrollspy()
 		    
 		    // Localscrolling 
@@ -591,5 +599,43 @@ $(document).ready(function() {
             }
           }
     });
+
+    $('.bratislava #map_canvas').gmap3({
+        map:{
+            options:{
+              center:[48.145478,17.142167],
+              zoom: 10
+            }
+          },
+          marker:{
+            values:[
+              {latLng:[48.145478,17.142167], data:"<h3>Bratislava</h3><p>Plynárenská 7/C, 824 86 Bratislava Slovak Republic</p></h3><p>Tel: +(52) Tel: +421 2 59 290 400 <br> Fax: +421 2 59 290 484 </p>"}
+            ],
+           
+            options:{
+              draggable: false,
+              icon: 'img/icons/eala_marker.png'
+            },
+            events:{
+              click: function(marker, event, context){
+                var map = $(this).gmap3("get"),
+                  infowindow = $(this).gmap3({get:{name:"infowindow"}});
+                if (infowindow){
+                  infowindow.open(map, marker);
+                  infowindow.setContent(context.data);
+                } else {
+                  $(this).gmap3({
+                    infowindow:{
+                      anchor:marker, 
+                      options:{content: context.data}
+                    }
+                  });
+                }
+              }
+            }
+          }
+    });
+
+
     
 });
