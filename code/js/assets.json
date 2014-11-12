@@ -19,8 +19,7 @@
         "boilingPoint": "20",
         "density": "8.99E-05",
         "type": "nonmetal",
-        "discovery": "1766",
-        "image":"tile.jpg"
+        "discovery": "1766"
     },
     {
         "number": "2",
@@ -42,8 +41,7 @@
         "boilingPoint": "4",
         "density": "0",
         "type": "noble gas",
-        "discovery": "1868",
-        "image":"tile.jpg"
+        "discovery": "1868"
     },
     {
         "number": "3",
@@ -65,8 +63,7 @@
         "boilingPoint": "1615",
         "density": "0.54",
         "type": "alkali metal",
-        "discovery": "1817",
-        "image":"tile.jpg"
+        "discovery": "1817"
     },
     {
         "number": "4",
@@ -88,7 +85,6 @@
         "boilingPoint": "2743",
         "density": "1.85",
         "type": "alkaline earth metal",
-        "discovery": "1798",
-        "image":"tile.jpg"
+        "discovery": "1798"
     }
 ]
