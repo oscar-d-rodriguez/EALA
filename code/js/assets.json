@@ -20,7 +20,7 @@
         "density": "8.99E-05",
         "type": "nonmetal",
         "discovery": "1766",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile.jpg"
+        "image":"tile.jpg"
     },
     {
         "number": "2",
@@ -43,7 +43,7 @@
         "density": "0",
         "type": "noble gas",
         "discovery": "1868",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile.jpg"
+        "image":"tile.jpg"
     },
     {
         "number": "3",
@@ -66,7 +66,7 @@
         "density": "0.54",
         "type": "alkali metal",
         "discovery": "1817",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile.jpg"
+        "image":"tile.jpg"
     },
     {
         "number": "4",
@@ -89,6 +89,6 @@
         "density": "1.85",
         "type": "alkaline earth metal",
         "discovery": "1798",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile.jpg"
+        "image":"tile.jpg"
     }
 ]
