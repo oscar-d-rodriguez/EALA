@@ -4,7 +4,7 @@
         "number": "1",
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
-        "type": "charts",
+        "type": "charts,subject1",
         "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile.jpg"
     },
     {
@@ -12,7 +12,7 @@
         "number": "2",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
-        "type": "exxon",
+        "type": "exxon,subject1",
         "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile2.jpg"
     },
     {
@@ -20,7 +20,7 @@
         "number": "3",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
-        "type": "image",
+        "type": "image,subject1",
         "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile3.jpg"
     },
     {
@@ -28,7 +28,7 @@
         "number": "4",
         "symbol": "psd",
         "name": "Class aptent - 28mb",
-        "type": "style guide",
+        "type": "style guide,subject2",
         "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile4.jpg"
     },
     {
@@ -36,7 +36,7 @@
         "number": "4",
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
-        "type": "exxon",
+        "type": "exxon,subject2",
         "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile2.jpg"
     }
 ]
