@@ -26,7 +26,7 @@
     {
          "subject":"subject1",
         "number": "2",
-        "symbol": "He",
+        "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "mass": "4.002602(2)",
         "color": "D9FFFF",
@@ -50,7 +50,7 @@
     {
          "subject":"subject1",
         "number": "3",
-        "symbol": "Li",
+        "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "mass": "6.941(2)",
         "color": "CC80FF",
@@ -74,7 +74,7 @@
     {
         "subject":"subject2",
         "number": "4",
-        "symbol": "Be",
+        "symbol": "psd",
         "name": "Class aptent - 28mb",
         "mass": "9.012182(3)",
         "color": "C2FF00",
@@ -98,7 +98,7 @@
     {
         "subject":"subject2",
         "number": "4",
-        "symbol": "Be",
+        "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "mass": "9.012182(3)",
         "color": "C2FF00",
