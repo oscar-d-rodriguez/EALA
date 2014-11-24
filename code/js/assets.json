@@ -13,7 +13,7 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "exxon,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg"
     },
     {
         "subject":"subject1",
@@ -21,7 +21,7 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "image,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile3.jpg"
+        "image":"assets/images/asset-finder/tile3.jpg"
     },
     {
         "subject":"subject2",
@@ -29,7 +29,7 @@
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "style guide,subject2",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile4.jpg"
+        "image":"assets/images/asset-finder/tile4.jpg"
     },
     {
         "subject":"subject2",
@@ -37,7 +37,7 @@
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "exxon,subject2",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg"
     },
         {
         "subject":"subject1",
@@ -45,7 +45,7 @@
         "symbol": "psd, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "charts,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile5.jpg"
+        "image":"assets/images/asset-finder/tile5.jpg"
     },
     {
         "subject":"subject1",
@@ -53,7 +53,7 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "exxon,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile6.jpg"
+        "image":"assets/images/asset-finder/tile6.jpg"
     },
     {
         "subject":"subject1",
@@ -61,7 +61,7 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "image,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile7.jpg"
+        "image":"assets/images/asset-finder/tile7.jpg"
     },
     {
         "subject":"subject2",
@@ -69,7 +69,7 @@
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "style guide,subject2",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile8.jpg"
+        "image":"assets/images/asset-finder/tile8.jpg"
     },
     {
         "subject":"subject2",
@@ -77,7 +77,7 @@
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "exxon,subject2",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile9.jpg"
+        "image":"assets/images/asset-finder/tile9.jpg"
     },
     {
         "subject":"subject2",
@@ -85,7 +85,7 @@
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "charts,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile10.jpg"
+        "image":"assets/images/asset-finder/tile10.jpg"
     },
     {
         "subject":"subject2",
@@ -93,7 +93,7 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "exxon,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile11.jpg"
+        "image":"assets/images/asset-finder/tile11.jpg"
     },
     {
         "subject":"subject1",
@@ -101,7 +101,7 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "image,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile12.jpg"
+        "image":"assets/images/asset-finder/tile12.jpg"
     },
     {
         "subject":"subject1",
@@ -109,7 +109,7 @@
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "charts,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile.jpg"
+        "image":"assets/images/asset-finder/tile.jpg"
     },
     {
         "subject":"subject1",
@@ -117,7 +117,7 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "exxon,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg"
     },
     {
         "subject":"subject1",
@@ -125,7 +125,7 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "image,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile3.jpg"
+        "image":"assets/images/asset-finder/tile3.jpg"
     },
     {
         "subject":"subject2",
@@ -133,7 +133,7 @@
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "style guide,subject2",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile4.jpg"
+        "image":"assets/images/asset-finder/tile4.jpg"
     },
     {
         "subject":"subject2",
@@ -141,7 +141,7 @@
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "exxon,subject2",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg"
     },
         {
         "subject":"subject1",
@@ -149,7 +149,7 @@
         "symbol": "psd, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "charts,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile5.jpg"
+        "image":"assets/images/asset-finder/tile5.jpg"
     },
     {
         "subject":"subject1",
@@ -157,7 +157,7 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "exxon,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile6.jpg"
+        "image":"assets/images/asset-finder/tile6.jpg"
     },
     {
         "subject":"subject1",
@@ -165,7 +165,7 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "image,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile7.jpg"
+        "image":"assets/images/asset-finder/tile7.jpg"
     },
     {
         "subject":"subject2",
@@ -173,7 +173,7 @@
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "style guide,subject2",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile8.jpg"
+        "image":"assets/images/asset-finder/tile8.jpg"
     },
     {
         "subject":"subject2",
@@ -181,7 +181,7 @@
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "exxon,subject2",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile9.jpg"
+        "image":"assets/images/asset-finder/tile9.jpg"
     },
     {
         "subject":"subject2",
@@ -189,7 +189,7 @@
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "charts,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile10.jpg"
+        "image":"assets/images/asset-finder/tile10.jpg"
     },
     {
         "subject":"subject2",
@@ -197,7 +197,7 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "exxon,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile11.jpg"
+        "image":"assets/images/asset-finder/tile11.jpg"
     },
     {
         "subject":"subject1",
@@ -205,7 +205,7 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "image,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile12.jpg"
+        "image":"assets/images/asset-finder/tile12.jpg"
     },
     {
         "subject":"subject1",
@@ -213,7 +213,7 @@
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "charts,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile.jpg"
+        "image":"assets/images/asset-finder/tile.jpg"
     },
     {
         "subject":"subject1",
@@ -221,7 +221,7 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "exxon,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg"
     },
     {
         "subject":"subject1",
@@ -229,7 +229,7 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "image,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile3.jpg"
+        "image":"assets/images/asset-finder/tile3.jpg"
     },
     {
         "subject":"subject2",
@@ -237,7 +237,7 @@
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "style guide,subject2",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile4.jpg"
+        "image":"assets/images/asset-finder/tile4.jpg"
     },
     {
         "subject":"subject2",
@@ -245,7 +245,7 @@
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "exxon,subject2",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg"
     },
         {
         "subject":"subject1",
@@ -253,7 +253,7 @@
         "symbol": "psd, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "charts,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile5.jpg"
+        "image":"assets/images/asset-finder/tile5.jpg"
     },
     {
         "subject":"subject1",
@@ -261,7 +261,7 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "exxon,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile6.jpg"
+        "image":"assets/images/asset-finder/tile6.jpg"
     },
     {
         "subject":"subject1",
@@ -269,7 +269,7 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "image,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile7.jpg"
+        "image":"assets/images/asset-finder/tile7.jpg"
     },
     {
         "subject":"subject2",
@@ -277,7 +277,7 @@
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "style guide,subject2",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile8.jpg"
+        "image":"assets/images/asset-finder/tile8.jpg"
     },
     {
         "subject":"subject2",
@@ -285,7 +285,7 @@
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "exxon,subject2",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile9.jpg"
+        "image":"assets/images/asset-finder/tile9.jpg"
     },
     {
         "subject":"subject2",
@@ -293,7 +293,7 @@
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "charts,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile10.jpg"
+        "image":"assets/images/asset-finder/tile10.jpg"
     },
     {
         "subject":"subject2",
@@ -301,7 +301,7 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "exxon,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile11.jpg"
+        "image":"assets/images/asset-finder/tile11.jpg"
     },
     {
         "subject":"subject1",
@@ -309,7 +309,7 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "image,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile12.jpg"
+        "image":"assets/images/asset-finder/tile12.jpg"
     },
     {
         "subject":"subject1",
@@ -317,7 +317,7 @@
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "charts,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile.jpg"
+        "image":"assets/images/asset-finder/tile.jpg"
     },
     {
         "subject":"subject1",
@@ -325,7 +325,7 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "exxon,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg"
     },
     {
         "subject":"subject1",
@@ -333,7 +333,7 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "image,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile3.jpg"
+        "image":"assets/images/asset-finder/tile3.jpg"
     },
     {
         "subject":"subject2",
@@ -341,7 +341,7 @@
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "style guide,subject2",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile4.jpg"
+        "image":"assets/images/asset-finder/tile4.jpg"
     },
     {
         "subject":"subject2",
@@ -349,7 +349,7 @@
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "exxon,subject2",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg"
     },
         {
         "subject":"subject1",
@@ -357,7 +357,7 @@
         "symbol": "psd, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "charts,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile5.jpg"
+        "image":"assets/images/asset-finder/tile5.jpg"
     },
     {
         "subject":"subject1",
@@ -365,7 +365,7 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "exxon,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile6.jpg"
+        "image":"assets/images/asset-finder/tile6.jpg"
     },
     {
         "subject":"subject1",
@@ -373,7 +373,7 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "image,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile7.jpg"
+        "image":"assets/images/asset-finder/tile7.jpg"
     },
     {
         "subject":"subject2",
@@ -381,7 +381,7 @@
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "style guide,subject2",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile8.jpg"
+        "image":"assets/images/asset-finder/tile8.jpg"
     },
     {
         "subject":"subject2",
@@ -389,7 +389,7 @@
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "exxon,subject2",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile9.jpg"
+        "image":"assets/images/asset-finder/tile9.jpg"
     },
     {
         "subject":"subject2",
@@ -397,7 +397,7 @@
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "charts,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile10.jpg"
+        "image":"assets/images/asset-finder/tile10.jpg"
     },
     {
         "subject":"subject2",
@@ -405,7 +405,7 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "exxon,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile11.jpg"
+        "image":"assets/images/asset-finder/tile11.jpg"
     },
     {
         "subject":"subject1",
@@ -413,7 +413,7 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "image,subject1",
-        "image":"https://at.avanade.com/organizations/XDNA/projects/pga-OBC-2014/Shared%20Documents/4.%20Visual%20Design/tile12.jpg"
+        "image":"assets/images/asset-finder/tile12.jpg"
     }
 ]
 
