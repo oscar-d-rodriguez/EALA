@@ -7,26 +7,27 @@
         "type": "Photo,Cityscapes",
         "image":"assets/images/asset-finder/tile.jpg",
         "keywords":"Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem, Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-        "files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+        "files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -36,26 +37,27 @@
         "type": "Logo,Education",
         "image":"assets/images/asset-finder/tile2.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-        "files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+        "files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -65,26 +67,27 @@
         "type": "Linkage,Healthcare",
         "image":"assets/images/asset-finder/tile3.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem, Netherlands, Europe, cooling tower, sunrise",
-        "files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+        "files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -94,26 +97,27 @@
         "type": "Template,Operations",
         "image":"assets/images/asset-finder/tile4.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -123,26 +127,27 @@
         "type": "Pattern,People",
         "image":"assets/images/asset-finder/tile2.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
         {
         "subject":"subject1",
@@ -152,26 +157,27 @@
         "type": "Typeface,Technology",
         "image":"assets/images/asset-finder/tile5.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -181,26 +187,27 @@
         "type": "Tagline,Transportation",
         "image":"assets/images/asset-finder/tile6.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -210,26 +217,27 @@
         "type": "Photo,Transportation",
         "image":"assets/images/asset-finder/tile7.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -239,26 +247,27 @@
         "type": "Logo,Technology",
         "image":"assets/images/asset-finder/tile8.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -268,26 +277,27 @@
         "type": "Linkage,People",
         "image":"assets/images/asset-finder/tile9.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -297,26 +307,27 @@
         "type": "Template,Operations",
         "image":"assets/images/asset-finder/tile10.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -326,26 +337,27 @@
         "type": "exxon,subject1",
         "image":"assets/images/asset-finder/tile11.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -355,26 +367,27 @@
         "type": "Pattern,Healthcare",
         "image":"assets/images/asset-finder/tile12.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -384,26 +397,27 @@
         "type": "Typeface,Education",
         "image":"assets/images/asset-finder/tile.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -413,26 +427,27 @@
         "type": "Tagline,Cityscapes",
         "image":"assets/images/asset-finder/tile2.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -442,26 +457,27 @@
         "type": "Pattern,Cityscapes",
         "image":"assets/images/asset-finder/tile3.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -471,26 +487,27 @@
         "type": "Typeface,Education",
         "image":"assets/images/asset-finder/tile4.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -500,26 +517,27 @@
         "type": "Tagline,Healthcare",
         "image":"assets/images/asset-finder/tile2.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
         {
         "subject":"subject1",
@@ -529,26 +547,27 @@
         "type": "Photo,Operations",
         "image":"assets/images/asset-finder/tile5.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -558,26 +577,27 @@
         "type": "Logo,People",
         "image":"assets/images/asset-finder/tile6.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -587,26 +607,27 @@
         "type": "Linkage,Technology",
         "image":"assets/images/asset-finder/tile7.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -616,26 +637,27 @@
         "type": "Template,Transportation",
         "image":"assets/images/asset-finder/tile8.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -645,26 +667,27 @@
         "type": "Pattern,Cityscapes",
         "image":"assets/images/asset-finder/tile9.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -674,26 +697,27 @@
         "type": "Typeface,Education",
         "image":"assets/images/asset-finder/tile10.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -703,26 +727,27 @@
         "type": "Tagline,Healthcare",
         "image":"assets/images/asset-finder/tile11.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -732,26 +757,27 @@
         "type": "Photo,Cityscapes",
         "image":"assets/images/asset-finder/tile.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -761,26 +787,27 @@
         "type": "Logo,Education",
         "image":"assets/images/asset-finder/tile2.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -790,26 +817,27 @@
         "type": "Linkage,Healthcare",
         "image":"assets/images/asset-finder/tile3.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -819,26 +847,27 @@
         "type": "Template,Operations",
         "image":"assets/images/asset-finder/tile4.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -848,26 +877,27 @@
         "type": "Pattern,People",
         "image":"assets/images/asset-finder/tile2.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
         {
         "subject":"subject1",
@@ -877,26 +907,27 @@
         "type": "Typeface,Technology",
         "image":"assets/images/asset-finder/tile5.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -906,26 +937,27 @@
         "type": "Tagline,Transportation",
         "image":"assets/images/asset-finder/tile6.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -935,26 +967,27 @@
         "type": "Photo,Transportation",
         "image":"assets/images/asset-finder/tile7.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -964,26 +997,27 @@
         "type": "Logo,Technology",
         "image":"assets/images/asset-finder/tile8.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -993,26 +1027,27 @@
         "type": "Linkage,People",
         "image":"assets/images/asset-finder/tile9.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1022,26 +1057,27 @@
         "type": "Template,Operations",
         "image":"assets/images/asset-finder/tile10.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1051,26 +1087,27 @@
         "type": "exxon,subject1",
         "image":"assets/images/asset-finder/tile11.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -1080,26 +1117,27 @@
         "type": "Pattern,Healthcare",
         "image":"assets/images/asset-finder/tile12.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -1109,26 +1147,27 @@
         "type": "Typeface,Education",
         "image":"assets/images/asset-finder/tile.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -1138,26 +1177,27 @@
         "type": "Tagline,Cityscapes",
         "image":"assets/images/asset-finder/tile2.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -1167,26 +1207,27 @@
         "type": "Pattern,Cityscapes",
         "image":"assets/images/asset-finder/tile3.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1196,26 +1237,27 @@
         "type": "Typeface,Education",
         "image":"assets/images/asset-finder/tile4.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1225,26 +1267,27 @@
         "type": "Tagline,Healthcare",
         "image":"assets/images/asset-finder/tile2.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
         {
         "subject":"subject1",
@@ -1254,26 +1297,27 @@
         "type": "Photo,Operations",
         "image":"assets/images/asset-finder/tile5.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -1283,26 +1327,27 @@
         "type": "Logo,People",
         "image":"assets/images/asset-finder/tile6.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject1",
@@ -1312,26 +1357,27 @@
         "type": "Linkage,Technology",
         "image":"assets/images/asset-finder/tile7.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1341,26 +1387,27 @@
         "type": "Template,Transportation",
         "image":"assets/images/asset-finder/tile8.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1370,26 +1417,27 @@
         "type": "Pattern,Cityscapes",
         "image":"assets/images/asset-finder/tile9.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1399,26 +1447,27 @@
         "type": "Typeface,Education",
         "image":"assets/images/asset-finder/tile10.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1428,26 +1477,27 @@
         "type": "Tagline,Healthcare",
         "image":"assets/images/asset-finder/tile11.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1457,26 +1507,27 @@
         "type": "Photo,Cityscapes",
         "image":"assets/images/asset-finder/tile11.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1486,26 +1537,27 @@
         "type": "Photo,Education",
         "image":"assets/images/asset-finder/tile1.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1515,26 +1567,27 @@
         "type": "Photo,Healthcare",
         "image":"assets/images/asset-finder/tile2.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1544,26 +1597,27 @@
         "type": "Photo,Operations",
         "image":"assets/images/asset-finder/tile3.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1573,26 +1627,27 @@
         "type": "Photo,People",
         "image":"assets/images/asset-finder/tile4.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1602,26 +1657,27 @@
         "type": "Photo,Technology",
         "image":"assets/images/asset-finder/tile5.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1631,26 +1687,27 @@
         "type": "Photo,Transportation",
         "image":"assets/images/asset-finder/tile6.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1660,26 +1717,27 @@
         "type": "Logo,Cityscapes",
         "image":"assets/images/asset-finder/tile7.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1689,26 +1747,27 @@
         "type": "Logo,Education",
         "image":"assets/images/asset-finder/tile8.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1718,26 +1777,27 @@
         "type": "Logo,Healthcare",
         "image":"assets/images/asset-finder/tile9.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1747,26 +1807,27 @@
         "type": "Logo,Operations",
         "image":"assets/images/asset-finder/tile10.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1776,26 +1837,27 @@
         "type": "Logo,People",
         "image":"assets/images/asset-finder/tile11.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1805,26 +1867,27 @@
         "type": "Logo,Technology",
         "image":"assets/images/asset-finder/tile12.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1834,26 +1897,27 @@
         "type": "Logo,Transportation",
         "image":"assets/images/asset-finder/tile1.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1863,26 +1927,27 @@
         "type": "Linkage,Cityscapes",
         "image":"assets/images/asset-finder/tile2.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1892,26 +1957,27 @@
         "type": "Linkage,Education",
         "image":"assets/images/asset-finder/tile3.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1921,26 +1987,27 @@
         "type": "Linkage,Healthcare",
         "image":"assets/images/asset-finder/tile4.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1950,26 +2017,27 @@
         "type": "Linkage,Operations",
         "image":"assets/images/asset-finder/tile5.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -1979,26 +2047,27 @@
         "type": "Linkage,People",
         "image":"assets/images/asset-finder/tile6.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -2008,26 +2077,27 @@
         "type": "Linkage,Technology",
         "image":"assets/images/asset-finder/tile7.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     },
     {
         "subject":"subject2",
@@ -2037,27 +2107,27 @@
         "type": "Linkage,Transportation",
         "image":"assets/images/asset-finder/tile8.jpg",
         "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
-"files":{
-            "JPG":{
-                "Small":{
-                    "url":"assets/images/asset-finder/tile.jpg",
-                    "type":"JPG",
-                    "size":"1.5mb",
-                    "label":"Small"
-                },
-                "large":{
-                    "url":"assets/images/asset-finder/tile1.jpg",
-                    "type":"JPG",
-                    "size":"5.5mb",
-                    "label":"large"
-                }                
+"files":[
+            {
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"JPG",
+                "size":"1.5mb",
+                "label":"Small"
             },
-            "EPS":{
+            {                
+                "url":"assets/images/asset-finder/tile1.jpg",
+                "type":"JPG",
+                "size":"5.5mb",
+                "label":"large"                            
+            },
+            {
                 "type":"Vector",
-                "url":"assets/images/asset-finder/tile2.jpg"
+                "url":"assets/images/asset-finder/tile.jpg",
+                "type":"Vector",
+                "size":"1.5mb",
+                "label":"Small"
             }
-        }
+        ]
     }
 
 ]
-
