@@ -34,7 +34,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Logo,Education",
-        "image":"assets/images/asset-finder/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -42,7 +43,8 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Linkage,Healthcare",
-        "image":"assets/images/asset-finder/tile3.jpg"
+        "image":"assets/images/asset-finder/tile3.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -50,7 +52,8 @@
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "Template,Operations",
-        "image":"assets/images/asset-finder/tile4.jpg"
+        "image":"assets/images/asset-finder/tile4.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -58,7 +61,8 @@
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "Pattern,People",
-        "image":"assets/images/asset-finder/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
         {
         "subject":"subject1",
@@ -66,7 +70,8 @@
         "symbol": "psd, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Typeface,Technology",
-        "image":"assets/images/asset-finder/tile5.jpg"
+        "image":"assets/images/asset-finder/tile5.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -74,7 +79,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Tagline,Transportation",
-        "image":"assets/images/asset-finder/tile6.jpg"
+        "image":"assets/images/asset-finder/tile6.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -82,7 +88,8 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Photo,Transportation",
-        "image":"assets/images/asset-finder/tile7.jpg"
+        "image":"assets/images/asset-finder/tile7.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -90,7 +97,8 @@
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "Logo,Technology",
-        "image":"assets/images/asset-finder/tile8.jpg"
+        "image":"assets/images/asset-finder/tile8.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -98,7 +106,8 @@
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "Linkage,People",
-        "image":"assets/images/asset-finder/tile9.jpg"
+        "image":"assets/images/asset-finder/tile9.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -106,7 +115,8 @@
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Template,Operations",
-        "image":"assets/images/asset-finder/tile10.jpg"
+        "image":"assets/images/asset-finder/tile10.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -114,7 +124,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "exxon,subject1",
-        "image":"assets/images/asset-finder/tile11.jpg"
+        "image":"assets/images/asset-finder/tile11.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -122,7 +133,8 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Pattern,Healthcare",
-        "image":"assets/images/asset-finder/tile12.jpg"
+        "image":"assets/images/asset-finder/tile12.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -130,7 +142,8 @@
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Typeface,Education",
-        "image":"assets/images/asset-finder/tile.jpg"
+        "image":"assets/images/asset-finder/tile.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -138,7 +151,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Tagline,Cityscapes",
-        "image":"assets/images/asset-finder/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -146,7 +160,8 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Pattern,Cityscapes",
-        "image":"assets/images/asset-finder/tile3.jpg"
+        "image":"assets/images/asset-finder/tile3.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -154,7 +169,8 @@
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "Typeface,Education",
-        "image":"assets/images/asset-finder/tile4.jpg"
+        "image":"assets/images/asset-finder/tile4.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -162,7 +178,8 @@
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "Tagline,Healthcare",
-        "image":"assets/images/asset-finder/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
         {
         "subject":"subject1",
@@ -170,7 +187,8 @@
         "symbol": "psd, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Photo,Operations",
-        "image":"assets/images/asset-finder/tile5.jpg"
+        "image":"assets/images/asset-finder/tile5.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -178,7 +196,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Logo,People",
-        "image":"assets/images/asset-finder/tile6.jpg"
+        "image":"assets/images/asset-finder/tile6.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -186,7 +205,8 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Linkage,Technology",
-        "image":"assets/images/asset-finder/tile7.jpg"
+        "image":"assets/images/asset-finder/tile7.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -194,7 +214,8 @@
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "Template,Transportation",
-        "image":"assets/images/asset-finder/tile8.jpg"
+        "image":"assets/images/asset-finder/tile8.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -202,7 +223,8 @@
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "Pattern,Cityscapes",
-        "image":"assets/images/asset-finder/tile9.jpg"
+        "image":"assets/images/asset-finder/tile9.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -210,7 +232,8 @@
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Typeface,Education",
-        "image":"assets/images/asset-finder/tile10.jpg"
+        "image":"assets/images/asset-finder/tile10.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -218,7 +241,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Tagline,Healthcare",
-        "image":"assets/images/asset-finder/tile11.jpg"
+        "image":"assets/images/asset-finder/tile11.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -226,7 +250,8 @@
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Photo,Cityscapes",
-        "image":"assets/images/asset-finder/tile.jpg"
+        "image":"assets/images/asset-finder/tile.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -234,7 +259,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Logo,Education",
-        "image":"assets/images/asset-finder/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -242,7 +268,8 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Linkage,Healthcare",
-        "image":"assets/images/asset-finder/tile3.jpg"
+        "image":"assets/images/asset-finder/tile3.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -250,7 +277,8 @@
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "Template,Operations",
-        "image":"assets/images/asset-finder/tile4.jpg"
+        "image":"assets/images/asset-finder/tile4.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -258,7 +286,8 @@
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "Pattern,People",
-        "image":"assets/images/asset-finder/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
         {
         "subject":"subject1",
@@ -266,7 +295,8 @@
         "symbol": "psd, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Typeface,Technology",
-        "image":"assets/images/asset-finder/tile5.jpg"
+        "image":"assets/images/asset-finder/tile5.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -274,7 +304,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Tagline,Transportation",
-        "image":"assets/images/asset-finder/tile6.jpg"
+        "image":"assets/images/asset-finder/tile6.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -282,7 +313,8 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Photo,Transportation",
-        "image":"assets/images/asset-finder/tile7.jpg"
+        "image":"assets/images/asset-finder/tile7.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -290,7 +322,8 @@
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "Logo,Technology",
-        "image":"assets/images/asset-finder/tile8.jpg"
+        "image":"assets/images/asset-finder/tile8.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -298,7 +331,8 @@
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "Linkage,People",
-        "image":"assets/images/asset-finder/tile9.jpg"
+        "image":"assets/images/asset-finder/tile9.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -306,7 +340,8 @@
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Template,Operations",
-        "image":"assets/images/asset-finder/tile10.jpg"
+        "image":"assets/images/asset-finder/tile10.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -314,7 +349,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "exxon,subject1",
-        "image":"assets/images/asset-finder/tile11.jpg"
+        "image":"assets/images/asset-finder/tile11.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -322,7 +358,8 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Pattern,Healthcare",
-        "image":"assets/images/asset-finder/tile12.jpg"
+        "image":"assets/images/asset-finder/tile12.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -330,7 +367,8 @@
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Typeface,Education",
-        "image":"assets/images/asset-finder/tile.jpg"
+        "image":"assets/images/asset-finder/tile.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -338,7 +376,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Tagline,Cityscapes",
-        "image":"assets/images/asset-finder/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -346,7 +385,8 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Pattern,Cityscapes",
-        "image":"assets/images/asset-finder/tile3.jpg"
+        "image":"assets/images/asset-finder/tile3.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -354,7 +394,8 @@
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "Typeface,Education",
-        "image":"assets/images/asset-finder/tile4.jpg"
+        "image":"assets/images/asset-finder/tile4.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -362,7 +403,8 @@
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "Tagline,Healthcare",
-        "image":"assets/images/asset-finder/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
         {
         "subject":"subject1",
@@ -370,7 +412,8 @@
         "symbol": "psd, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Photo,Operations",
-        "image":"assets/images/asset-finder/tile5.jpg"
+        "image":"assets/images/asset-finder/tile5.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -378,7 +421,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Logo,People",
-        "image":"assets/images/asset-finder/tile6.jpg"
+        "image":"assets/images/asset-finder/tile6.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject1",
@@ -386,7 +430,8 @@
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Linkage,Technology",
-        "image":"assets/images/asset-finder/tile7.jpg"
+        "image":"assets/images/asset-finder/tile7.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -394,7 +439,8 @@
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "Template,Transportation",
-        "image":"assets/images/asset-finder/tile8.jpg"
+        "image":"assets/images/asset-finder/tile8.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -402,7 +448,8 @@
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "Pattern,Cityscapes",
-        "image":"assets/images/asset-finder/tile9.jpg"
+        "image":"assets/images/asset-finder/tile9.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -410,7 +457,8 @@
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Typeface,Education",
-        "image":"assets/images/asset-finder/tile10.jpg"
+        "image":"assets/images/asset-finder/tile10.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -418,7 +466,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Tagline,Healthcare",
-        "image":"assets/images/asset-finder/tile11.jpg"
+        "image":"assets/images/asset-finder/tile11.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -426,7 +475,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Photo,Cityscapes",
-        "image":"assets/images/asset-finder/tile11.jpg"
+        "image":"assets/images/asset-finder/tile11.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -434,7 +484,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Photo,Education",
-        "image":"assets/images/asset-finder/tile1.jpg"
+        "image":"assets/images/asset-finder/tile1.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -442,7 +493,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Photo,Healthcare",
-        "image":"assets/images/asset-finder/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -450,7 +502,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Photo,Operations",
-        "image":"assets/images/asset-finder/tile3.jpg"
+        "image":"assets/images/asset-finder/tile3.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -458,7 +511,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Photo,People",
-        "image":"assets/images/asset-finder/tile4.jpg"
+        "image":"assets/images/asset-finder/tile4.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -466,7 +520,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Photo,Technology",
-        "image":"assets/images/asset-finder/tile5.jpg"
+        "image":"assets/images/asset-finder/tile5.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -474,7 +529,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Photo,Transportation",
-        "image":"assets/images/asset-finder/tile6.jpg"
+        "image":"assets/images/asset-finder/tile6.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -482,7 +538,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Logo,Cityscapes",
-        "image":"assets/images/asset-finder/tile7.jpg"
+        "image":"assets/images/asset-finder/tile7.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -490,7 +547,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Logo,Education",
-        "image":"assets/images/asset-finder/tile8.jpg"
+        "image":"assets/images/asset-finder/tile8.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -498,7 +556,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Logo,Healthcare",
-        "image":"assets/images/asset-finder/tile9.jpg"
+        "image":"assets/images/asset-finder/tile9.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -506,7 +565,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Logo,Operations",
-        "image":"assets/images/asset-finder/tile10.jpg"
+        "image":"assets/images/asset-finder/tile10.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -514,7 +574,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Logo,People",
-        "image":"assets/images/asset-finder/tile11.jpg"
+        "image":"assets/images/asset-finder/tile11.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -522,7 +583,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Logo,Technology",
-        "image":"assets/images/asset-finder/tile12.jpg"
+        "image":"assets/images/asset-finder/tile12.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -530,7 +592,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Logo,Transportation",
-        "image":"assets/images/asset-finder/tile1.jpg"
+        "image":"assets/images/asset-finder/tile1.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -538,7 +601,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Linkage,Cityscapes",
-        "image":"assets/images/asset-finder/tile2.jpg"
+        "image":"assets/images/asset-finder/tile2.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -546,7 +610,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Linkage,Education",
-        "image":"assets/images/asset-finder/tile3.jpg"
+        "image":"assets/images/asset-finder/tile3.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -554,7 +619,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Linkage,Healthcare",
-        "image":"assets/images/asset-finder/tile4.jpg"
+        "image":"assets/images/asset-finder/tile4.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -562,7 +628,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Linkage,Operations",
-        "image":"assets/images/asset-finder/tile5.jpg"
+        "image":"assets/images/asset-finder/tile5.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -570,7 +637,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Linkage,People",
-        "image":"assets/images/asset-finder/tile6.jpg"
+        "image":"assets/images/asset-finder/tile6.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -578,7 +646,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Linkage,Technology",
-        "image":"assets/images/asset-finder/tile7.jpg"
+        "image":"assets/images/asset-finder/tile7.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     },
     {
         "subject":"subject2",
@@ -586,7 +655,8 @@
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Linkage,Transportation",
-        "image":"assets/images/asset-finder/tile8.jpg"
+        "image":"assets/images/asset-finder/tile8.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem"
     }
 
 ]
