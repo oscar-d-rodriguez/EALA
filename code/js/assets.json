@@ -1,15 +1,36 @@
 [
     {
-        "subject":"subject1",
-        "number": "1",
+        "subject":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec tristique turpis. Duis eu interdum enim. Vestibulum ac varius ipsum, gravida facilisis leo. Aliquam a accumsan risus. Nam non orci sapien. Curabitur eget lectus in lectus interdum pharetra. Phasellus a pulvinar lorem, nec porttitor eros.",
+        "size": "9,8mb",
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Photo,Cityscapes",
-        "image":"assets/images/asset-finder/tile.jpg"
+        "image":"assets/images/asset-finder/tile.jpg",
+        "keywords":"Operations, power plant, energy, Netherlands, Europe, cooling tower, sunrise, coast, skyline, lorem",
+        "files":{
+            "JPG":{
+                "Small":{
+                    "url":"assets/images/asset-finder/tile.jpg",
+                    "type":"JPG",
+                    "size":"1.5mb",
+                    "label":"Small"
+                },
+                "large":{
+                    "url":"assets/images/asset-finder/tile1.jpg",
+                    "type":"JPG",
+                    "size":"5.5mb",
+                    "label":"large"
+                }                
+            },
+            "EPS":{
+                "type":"Vector",
+                "url":"assets/images/asset-finder/tile2.jpg"
+            }
+        }
     },
     {
         "subject":"subject1",
-        "number": "2",
+        "size": "2",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Logo,Education",
@@ -17,7 +38,7 @@
     },
     {
         "subject":"subject1",
-        "number": "3",
+        "size": "3",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Linkage,Healthcare",
@@ -25,7 +46,7 @@
     },
     {
         "subject":"subject2",
-        "number": "4",
+        "size": "4",
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "Template,Operations",
@@ -33,7 +54,7 @@
     },
     {
         "subject":"subject2",
-        "number": "5",
+        "size": "5",
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "Pattern,People",
@@ -41,7 +62,7 @@
     },
         {
         "subject":"subject1",
-        "number": "6",
+        "size": "6",
         "symbol": "psd, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Typeface,Technology",
@@ -49,7 +70,7 @@
     },
     {
         "subject":"subject1",
-        "number": "7",
+        "size": "7",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Tagline,Transportation",
@@ -57,7 +78,7 @@
     },
     {
         "subject":"subject1",
-        "number": "8",
+        "size": "8",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Photo,Transportation",
@@ -65,7 +86,7 @@
     },
     {
         "subject":"subject2",
-        "number": "9",
+        "size": "9",
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "Logo,Technology",
@@ -73,7 +94,7 @@
     },
     {
         "subject":"subject2",
-        "number": "10",
+        "size": "10",
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "Linkage,People",
@@ -81,7 +102,7 @@
     },
     {
         "subject":"subject2",
-        "number": "11",
+        "size": "11",
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Template,Operations",
@@ -89,7 +110,7 @@
     },
     {
         "subject":"subject2",
-        "number": "12",
+        "size": "12",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "exxon,subject1",
@@ -97,7 +118,7 @@
     },
     {
         "subject":"subject1",
-        "number": "13",
+        "size": "13",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Pattern,Healthcare",
@@ -105,7 +126,7 @@
     },
     {
         "subject":"subject1",
-        "number": "1",
+        "size": "1",
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Typeface,Education",
@@ -113,7 +134,7 @@
     },
     {
         "subject":"subject1",
-        "number": "2",
+        "size": "2",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Tagline,Cityscapes",
@@ -121,7 +142,7 @@
     },
     {
         "subject":"subject1",
-        "number": "3",
+        "size": "3",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Pattern,Cityscapes",
@@ -129,7 +150,7 @@
     },
     {
         "subject":"subject2",
-        "number": "4",
+        "size": "4",
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "Typeface,Education",
@@ -137,7 +158,7 @@
     },
     {
         "subject":"subject2",
-        "number": "5",
+        "size": "5",
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "Tagline,Healthcare",
@@ -145,7 +166,7 @@
     },
         {
         "subject":"subject1",
-        "number": "6",
+        "size": "6",
         "symbol": "psd, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Photo,Operations",
@@ -153,7 +174,7 @@
     },
     {
         "subject":"subject1",
-        "number": "7",
+        "size": "7",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Logo,People",
@@ -161,7 +182,7 @@
     },
     {
         "subject":"subject1",
-        "number": "8",
+        "size": "8",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Linkage,Technology",
@@ -169,7 +190,7 @@
     },
     {
         "subject":"subject2",
-        "number": "9",
+        "size": "9",
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "Template,Transportation",
@@ -177,7 +198,7 @@
     },
     {
         "subject":"subject2",
-        "number": "10",
+        "size": "10",
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "Pattern,Cityscapes",
@@ -185,7 +206,7 @@
     },
     {
         "subject":"subject2",
-        "number": "11",
+        "size": "11",
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Typeface,Education",
@@ -193,7 +214,7 @@
     },
     {
         "subject":"subject2",
-        "number": "12",
+        "size": "12",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Tagline,Healthcare",
@@ -201,7 +222,7 @@
     },
     {
         "subject":"subject1",
-        "number": "1",
+        "size": "1",
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Photo,Cityscapes",
@@ -209,7 +230,7 @@
     },
     {
         "subject":"subject1",
-        "number": "2",
+        "size": "2",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Logo,Education",
@@ -217,7 +238,7 @@
     },
     {
         "subject":"subject1",
-        "number": "3",
+        "size": "3",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Linkage,Healthcare",
@@ -225,7 +246,7 @@
     },
     {
         "subject":"subject2",
-        "number": "4",
+        "size": "4",
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "Template,Operations",
@@ -233,7 +254,7 @@
     },
     {
         "subject":"subject2",
-        "number": "5",
+        "size": "5",
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "Pattern,People",
@@ -241,7 +262,7 @@
     },
         {
         "subject":"subject1",
-        "number": "6",
+        "size": "6",
         "symbol": "psd, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Typeface,Technology",
@@ -249,7 +270,7 @@
     },
     {
         "subject":"subject1",
-        "number": "7",
+        "size": "7",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Tagline,Transportation",
@@ -257,7 +278,7 @@
     },
     {
         "subject":"subject1",
-        "number": "8",
+        "size": "8",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Photo,Transportation",
@@ -265,7 +286,7 @@
     },
     {
         "subject":"subject2",
-        "number": "9",
+        "size": "9",
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "Logo,Technology",
@@ -273,7 +294,7 @@
     },
     {
         "subject":"subject2",
-        "number": "10",
+        "size": "10",
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "Linkage,People",
@@ -281,7 +302,7 @@
     },
     {
         "subject":"subject2",
-        "number": "11",
+        "size": "11",
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Template,Operations",
@@ -289,7 +310,7 @@
     },
     {
         "subject":"subject2",
-        "number": "12",
+        "size": "12",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "exxon,subject1",
@@ -297,7 +318,7 @@
     },
     {
         "subject":"subject1",
-        "number": "13",
+        "size": "13",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Pattern,Healthcare",
@@ -305,7 +326,7 @@
     },
     {
         "subject":"subject1",
-        "number": "1",
+        "size": "1",
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Typeface,Education",
@@ -313,7 +334,7 @@
     },
     {
         "subject":"subject1",
-        "number": "2",
+        "size": "2",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Tagline,Cityscapes",
@@ -321,7 +342,7 @@
     },
     {
         "subject":"subject1",
-        "number": "3",
+        "size": "3",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Pattern,Cityscapes",
@@ -329,7 +350,7 @@
     },
     {
         "subject":"subject2",
-        "number": "4",
+        "size": "4",
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "Typeface,Education",
@@ -337,7 +358,7 @@
     },
     {
         "subject":"subject2",
-        "number": "5",
+        "size": "5",
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "Tagline,Healthcare",
@@ -345,7 +366,7 @@
     },
         {
         "subject":"subject1",
-        "number": "6",
+        "size": "6",
         "symbol": "psd, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Photo,Operations",
@@ -353,7 +374,7 @@
     },
     {
         "subject":"subject1",
-        "number": "7",
+        "size": "7",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Logo,People",
@@ -361,7 +382,7 @@
     },
     {
         "subject":"subject1",
-        "number": "8",
+        "size": "8",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
         "type": "Linkage,Technology",
@@ -369,7 +390,7 @@
     },
     {
         "subject":"subject2",
-        "number": "9",
+        "size": "9",
         "symbol": "psd",
         "name": "Class aptent - 28mb",
         "type": "Template,Transportation",
@@ -377,7 +398,7 @@
     },
     {
         "subject":"subject2",
-        "number": "10",
+        "size": "10",
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
         "type": "Pattern,Cityscapes",
@@ -385,7 +406,7 @@
     },
     {
         "subject":"subject2",
-        "number": "11",
+        "size": "11",
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
         "type": "Typeface,Education",
@@ -393,11 +414,180 @@
     },
     {
         "subject":"subject2",
-        "number": "12",
+        "size": "12",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
         "type": "Tagline,Healthcare",
         "image":"assets/images/asset-finder/tile11.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Photo,Cityscapes",
+        "image":"assets/images/asset-finder/tile11.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Photo,Education",
+        "image":"assets/images/asset-finder/tile1.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Photo,Healthcare",
+        "image":"assets/images/asset-finder/tile2.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Photo,Operations",
+        "image":"assets/images/asset-finder/tile3.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Photo,People",
+        "image":"assets/images/asset-finder/tile4.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Photo,Technology",
+        "image":"assets/images/asset-finder/tile5.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Photo,Transportation",
+        "image":"assets/images/asset-finder/tile6.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Logo,Cityscapes",
+        "image":"assets/images/asset-finder/tile7.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Logo,Education",
+        "image":"assets/images/asset-finder/tile8.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Logo,Healthcare",
+        "image":"assets/images/asset-finder/tile9.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Logo,Operations",
+        "image":"assets/images/asset-finder/tile10.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Logo,People",
+        "image":"assets/images/asset-finder/tile11.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Logo,Technology",
+        "image":"assets/images/asset-finder/tile12.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Logo,Transportation",
+        "image":"assets/images/asset-finder/tile1.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Linkage,Cityscapes",
+        "image":"assets/images/asset-finder/tile2.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Linkage,Education",
+        "image":"assets/images/asset-finder/tile3.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Linkage,Healthcare",
+        "image":"assets/images/asset-finder/tile4.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Linkage,Operations",
+        "image":"assets/images/asset-finder/tile5.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Linkage,People",
+        "image":"assets/images/asset-finder/tile6.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Linkage,Technology",
+        "image":"assets/images/asset-finder/tile7.jpg"
+    },
+    {
+        "subject":"subject2",
+        "size": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Linkage,Transportation",
+        "image":"assets/images/asset-finder/tile8.jpg"
     }
+
 ]
 
