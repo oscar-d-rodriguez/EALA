@@ -4,7 +4,7 @@
         "number": "1",
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
-        "type": "charts,subject1",
+        "type": "Photo,Cityscapes",
         "image":"assets/images/asset-finder/tile.jpg"
     },
     {
@@ -12,7 +12,7 @@
         "number": "2",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
-        "type": "exxon,subject1",
+        "type": "Logo,Education",
         "image":"assets/images/asset-finder/tile2.jpg"
     },
     {
@@ -20,7 +20,7 @@
         "number": "3",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
-        "type": "image,subject1",
+        "type": "Linkage,Healthcare",
         "image":"assets/images/asset-finder/tile3.jpg"
     },
     {
@@ -28,7 +28,7 @@
         "number": "4",
         "symbol": "psd",
         "name": "Class aptent - 28mb",
-        "type": "style guide,subject2",
+        "type": "Template,Operations",
         "image":"assets/images/asset-finder/tile4.jpg"
     },
     {
@@ -36,7 +36,7 @@
         "number": "5",
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
-        "type": "exxon,subject2",
+        "type": "Pattern,People",
         "image":"assets/images/asset-finder/tile2.jpg"
     },
         {
@@ -44,7 +44,7 @@
         "number": "6",
         "symbol": "psd, png",
         "name": "Lorem Ipsum - 9,8mb",
-        "type": "charts,subject1",
+        "type": "Typeface,Technology",
         "image":"assets/images/asset-finder/tile5.jpg"
     },
     {
@@ -52,7 +52,7 @@
         "number": "7",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
-        "type": "exxon,subject1",
+        "type": "Tagline,Transportation",
         "image":"assets/images/asset-finder/tile6.jpg"
     },
     {
@@ -60,7 +60,7 @@
         "number": "8",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
-        "type": "image,subject1",
+        "type": "Photo,Transportation",
         "image":"assets/images/asset-finder/tile7.jpg"
     },
     {
@@ -68,7 +68,7 @@
         "number": "9",
         "symbol": "psd",
         "name": "Class aptent - 28mb",
-        "type": "style guide,subject2",
+        "type": "Logo,Technology",
         "image":"assets/images/asset-finder/tile8.jpg"
     },
     {
@@ -76,7 +76,7 @@
         "number": "10",
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
-        "type": "exxon,subject2",
+        "type": "Linkage,People",
         "image":"assets/images/asset-finder/tile9.jpg"
     },
     {
@@ -84,7 +84,7 @@
         "number": "11",
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
-        "type": "charts,subject1",
+        "type": "Template,Operations",
         "image":"assets/images/asset-finder/tile10.jpg"
     },
     {
@@ -100,7 +100,7 @@
         "number": "13",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
-        "type": "image,subject1",
+        "type": "Pattern,Healthcare",
         "image":"assets/images/asset-finder/tile12.jpg"
     },
     {
@@ -108,7 +108,7 @@
         "number": "1",
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
-        "type": "charts,subject1",
+        "type": "Typeface,Education",
         "image":"assets/images/asset-finder/tile.jpg"
     },
     {
@@ -116,7 +116,7 @@
         "number": "2",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
-        "type": "exxon,subject1",
+        "type": "Tagline,Cityscapes",
         "image":"assets/images/asset-finder/tile2.jpg"
     },
     {
@@ -124,7 +124,7 @@
         "number": "3",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
-        "type": "image,subject1",
+        "type": "Pattern,Cityscapes",
         "image":"assets/images/asset-finder/tile3.jpg"
     },
     {
@@ -132,7 +132,7 @@
         "number": "4",
         "symbol": "psd",
         "name": "Class aptent - 28mb",
-        "type": "style guide,subject2",
+        "type": "Typeface,Education",
         "image":"assets/images/asset-finder/tile4.jpg"
     },
     {
@@ -140,7 +140,7 @@
         "number": "5",
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
-        "type": "exxon,subject2",
+        "type": "Tagline,Healthcare",
         "image":"assets/images/asset-finder/tile2.jpg"
     },
         {
@@ -148,7 +148,7 @@
         "number": "6",
         "symbol": "psd, png",
         "name": "Lorem Ipsum - 9,8mb",
-        "type": "charts,subject1",
+        "type": "Photo,Operations",
         "image":"assets/images/asset-finder/tile5.jpg"
     },
     {
@@ -156,7 +156,7 @@
         "number": "7",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
-        "type": "exxon,subject1",
+        "type": "Logo,People",
         "image":"assets/images/asset-finder/tile6.jpg"
     },
     {
@@ -164,7 +164,7 @@
         "number": "8",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
-        "type": "image,subject1",
+        "type": "Linkage,Technology",
         "image":"assets/images/asset-finder/tile7.jpg"
     },
     {
@@ -172,7 +172,7 @@
         "number": "9",
         "symbol": "psd",
         "name": "Class aptent - 28mb",
-        "type": "style guide,subject2",
+        "type": "Template,Transportation",
         "image":"assets/images/asset-finder/tile8.jpg"
     },
     {
@@ -180,7 +180,7 @@
         "number": "10",
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
-        "type": "exxon,subject2",
+        "type": "Pattern,Cityscapes",
         "image":"assets/images/asset-finder/tile9.jpg"
     },
     {
@@ -188,7 +188,103 @@
         "number": "11",
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
-        "type": "charts,subject1",
+        "type": "Typeface,Education",
+        "image":"assets/images/asset-finder/tile10.jpg"
+    },
+    {
+        "subject":"subject2",
+        "number": "12",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Tagline,Healthcare",
+        "image":"assets/images/asset-finder/tile11.jpg"
+    },
+    {
+        "subject":"subject1",
+        "number": "1",
+        "symbol": "jpg, png",
+        "name": "Lorem Ipsum - 9,8mb",
+        "type": "Photo,Cityscapes",
+        "image":"assets/images/asset-finder/tile.jpg"
+    },
+    {
+        "subject":"subject1",
+        "number": "2",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Logo,Education",
+        "image":"assets/images/asset-finder/tile2.jpg"
+    },
+    {
+        "subject":"subject1",
+        "number": "3",
+        "symbol": "jpg, png, gif",
+        "name": "Ipsum Lorem - 2mb",
+        "type": "Linkage,Healthcare",
+        "image":"assets/images/asset-finder/tile3.jpg"
+    },
+    {
+        "subject":"subject2",
+        "number": "4",
+        "symbol": "psd",
+        "name": "Class aptent - 28mb",
+        "type": "Template,Operations",
+        "image":"assets/images/asset-finder/tile4.jpg"
+    },
+    {
+        "subject":"subject2",
+        "number": "5",
+        "symbol": "png",
+        "name": "Praesent sed - 1.4mb",
+        "type": "Pattern,People",
+        "image":"assets/images/asset-finder/tile2.jpg"
+    },
+        {
+        "subject":"subject1",
+        "number": "6",
+        "symbol": "psd, png",
+        "name": "Lorem Ipsum - 9,8mb",
+        "type": "Typeface,Technology",
+        "image":"assets/images/asset-finder/tile5.jpg"
+    },
+    {
+        "subject":"subject1",
+        "number": "7",
+        "symbol": "gif",
+        "name": "Dolor - 1,2mb",
+        "type": "Tagline,Transportation",
+        "image":"assets/images/asset-finder/tile6.jpg"
+    },
+    {
+        "subject":"subject1",
+        "number": "8",
+        "symbol": "jpg, png, gif",
+        "name": "Ipsum Lorem - 2mb",
+        "type": "Photo,Transportation",
+        "image":"assets/images/asset-finder/tile7.jpg"
+    },
+    {
+        "subject":"subject2",
+        "number": "9",
+        "symbol": "psd",
+        "name": "Class aptent - 28mb",
+        "type": "Logo,Technology",
+        "image":"assets/images/asset-finder/tile8.jpg"
+    },
+    {
+        "subject":"subject2",
+        "number": "10",
+        "symbol": "png",
+        "name": "Praesent sed - 1.4mb",
+        "type": "Linkage,People",
+        "image":"assets/images/asset-finder/tile9.jpg"
+    },
+    {
+        "subject":"subject2",
+        "number": "11",
+        "symbol": "jpg, png",
+        "name": "Lorem Ipsum - 9,8mb",
+        "type": "Template,Operations",
         "image":"assets/images/asset-finder/tile10.jpg"
     },
     {
@@ -204,7 +300,7 @@
         "number": "13",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
-        "type": "image,subject1",
+        "type": "Pattern,Healthcare",
         "image":"assets/images/asset-finder/tile12.jpg"
     },
     {
@@ -212,7 +308,7 @@
         "number": "1",
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
-        "type": "charts,subject1",
+        "type": "Typeface,Education",
         "image":"assets/images/asset-finder/tile.jpg"
     },
     {
@@ -220,7 +316,7 @@
         "number": "2",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
-        "type": "exxon,subject1",
+        "type": "Tagline,Cityscapes",
         "image":"assets/images/asset-finder/tile2.jpg"
     },
     {
@@ -228,7 +324,7 @@
         "number": "3",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
-        "type": "image,subject1",
+        "type": "Pattern,Cityscapes",
         "image":"assets/images/asset-finder/tile3.jpg"
     },
     {
@@ -236,7 +332,7 @@
         "number": "4",
         "symbol": "psd",
         "name": "Class aptent - 28mb",
-        "type": "style guide,subject2",
+        "type": "Typeface,Education",
         "image":"assets/images/asset-finder/tile4.jpg"
     },
     {
@@ -244,7 +340,7 @@
         "number": "5",
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
-        "type": "exxon,subject2",
+        "type": "Tagline,Healthcare",
         "image":"assets/images/asset-finder/tile2.jpg"
     },
         {
@@ -252,7 +348,7 @@
         "number": "6",
         "symbol": "psd, png",
         "name": "Lorem Ipsum - 9,8mb",
-        "type": "charts,subject1",
+        "type": "Photo,Operations",
         "image":"assets/images/asset-finder/tile5.jpg"
     },
     {
@@ -260,7 +356,7 @@
         "number": "7",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
-        "type": "exxon,subject1",
+        "type": "Logo,People",
         "image":"assets/images/asset-finder/tile6.jpg"
     },
     {
@@ -268,7 +364,7 @@
         "number": "8",
         "symbol": "jpg, png, gif",
         "name": "Ipsum Lorem - 2mb",
-        "type": "image,subject1",
+        "type": "Linkage,Technology",
         "image":"assets/images/asset-finder/tile7.jpg"
     },
     {
@@ -276,7 +372,7 @@
         "number": "9",
         "symbol": "psd",
         "name": "Class aptent - 28mb",
-        "type": "style guide,subject2",
+        "type": "Template,Transportation",
         "image":"assets/images/asset-finder/tile8.jpg"
     },
     {
@@ -284,7 +380,7 @@
         "number": "10",
         "symbol": "png",
         "name": "Praesent sed - 1.4mb",
-        "type": "exxon,subject2",
+        "type": "Pattern,Cityscapes",
         "image":"assets/images/asset-finder/tile9.jpg"
     },
     {
@@ -292,7 +388,7 @@
         "number": "11",
         "symbol": "jpg, png",
         "name": "Lorem Ipsum - 9,8mb",
-        "type": "charts,subject1",
+        "type": "Typeface,Education",
         "image":"assets/images/asset-finder/tile10.jpg"
     },
     {
@@ -300,120 +396,8 @@
         "number": "12",
         "symbol": "gif",
         "name": "Dolor - 1,2mb",
-        "type": "exxon,subject1",
+        "type": "Tagline,Healthcare",
         "image":"assets/images/asset-finder/tile11.jpg"
-    },
-    {
-        "subject":"subject1",
-        "number": "13",
-        "symbol": "jpg, png, gif",
-        "name": "Ipsum Lorem - 2mb",
-        "type": "image,subject1",
-        "image":"assets/images/asset-finder/tile12.jpg"
-    },
-    {
-        "subject":"subject1",
-        "number": "1",
-        "symbol": "jpg, png",
-        "name": "Lorem Ipsum - 9,8mb",
-        "type": "charts,subject1",
-        "image":"assets/images/asset-finder/tile.jpg"
-    },
-    {
-        "subject":"subject1",
-        "number": "2",
-        "symbol": "gif",
-        "name": "Dolor - 1,2mb",
-        "type": "exxon,subject1",
-        "image":"assets/images/asset-finder/tile2.jpg"
-    },
-    {
-        "subject":"subject1",
-        "number": "3",
-        "symbol": "jpg, png, gif",
-        "name": "Ipsum Lorem - 2mb",
-        "type": "image,subject1",
-        "image":"assets/images/asset-finder/tile3.jpg"
-    },
-    {
-        "subject":"subject2",
-        "number": "4",
-        "symbol": "psd",
-        "name": "Class aptent - 28mb",
-        "type": "style guide,subject2",
-        "image":"assets/images/asset-finder/tile4.jpg"
-    },
-    {
-        "subject":"subject2",
-        "number": "5",
-        "symbol": "png",
-        "name": "Praesent sed - 1.4mb",
-        "type": "exxon,subject2",
-        "image":"assets/images/asset-finder/tile2.jpg"
-    },
-        {
-        "subject":"subject1",
-        "number": "6",
-        "symbol": "psd, png",
-        "name": "Lorem Ipsum - 9,8mb",
-        "type": "charts,subject1",
-        "image":"assets/images/asset-finder/tile5.jpg"
-    },
-    {
-        "subject":"subject1",
-        "number": "7",
-        "symbol": "gif",
-        "name": "Dolor - 1,2mb",
-        "type": "exxon,subject1",
-        "image":"assets/images/asset-finder/tile6.jpg"
-    },
-    {
-        "subject":"subject1",
-        "number": "8",
-        "symbol": "jpg, png, gif",
-        "name": "Ipsum Lorem - 2mb",
-        "type": "image,subject1",
-        "image":"assets/images/asset-finder/tile7.jpg"
-    },
-    {
-        "subject":"subject2",
-        "number": "9",
-        "symbol": "psd",
-        "name": "Class aptent - 28mb",
-        "type": "style guide,subject2",
-        "image":"assets/images/asset-finder/tile8.jpg"
-    },
-    {
-        "subject":"subject2",
-        "number": "10",
-        "symbol": "png",
-        "name": "Praesent sed - 1.4mb",
-        "type": "exxon,subject2",
-        "image":"assets/images/asset-finder/tile9.jpg"
-    },
-    {
-        "subject":"subject2",
-        "number": "11",
-        "symbol": "jpg, png",
-        "name": "Lorem Ipsum - 9,8mb",
-        "type": "charts,subject1",
-        "image":"assets/images/asset-finder/tile10.jpg"
-    },
-    {
-        "subject":"subject2",
-        "number": "12",
-        "symbol": "gif",
-        "name": "Dolor - 1,2mb",
-        "type": "exxon,subject1",
-        "image":"assets/images/asset-finder/tile11.jpg"
-    },
-    {
-        "subject":"subject1",
-        "number": "13",
-        "symbol": "jpg, png, gif",
-        "name": "Ipsum Lorem - 2mb",
-        "type": "image,subject1",
-        "image":"assets/images/asset-finder/tile12.jpg"
     }
 ]
 
